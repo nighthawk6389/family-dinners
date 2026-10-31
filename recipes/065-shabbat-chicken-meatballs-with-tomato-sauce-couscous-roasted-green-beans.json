@@ -1,0 +1,22 @@
+{
+  "number": 65,
+  "title": "Shabbat Chicken Meatballs with Tomato Sauce, Couscous & Roasted Green Beans",
+  "slug": "065-shabbat-chicken-meatballs-with-tomato-sauce-couscous-roasted-green-beans",
+  "kosher_category": "meat",
+  "primary_category": "chicken",
+  "shabbat_friendly": true,
+  "meal_formats": [
+    "meatballs"
+  ],
+  "components_from_title": [
+    "Shabbat Chicken Meatballs",
+    "Tomato Sauce",
+    "Couscous",
+    "Roasted Green Beans"
+  ],
+  "summary": "Kosher meat dinner: Shabbat Chicken Meatballs with Tomato Sauce, Couscous & Roasted Green Beans.",
+  "possible_related_or_duplicate_of": [
+    37,
+    58
+  ]
+}

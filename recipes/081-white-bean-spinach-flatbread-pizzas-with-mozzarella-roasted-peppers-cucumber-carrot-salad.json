@@ -1,0 +1,20 @@
+{
+  "number": 81,
+  "title": "White Bean & Spinach Flatbread Pizzas with Mozzarella, Roasted Peppers & Cucumber-Carrot Salad",
+  "slug": "081-white-bean-spinach-flatbread-pizzas-with-mozzarella-roasted-peppers-cucumber-carrot-salad",
+  "kosher_category": "dairy",
+  "primary_category": "dairy_vegetarian",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "flatbread",
+    "pizza",
+    "plated"
+  ],
+  "components_from_title": [
+    "White Bean & Spinach Flatbread Pizzas",
+    "Mozzarella",
+    "Roasted Peppers",
+    "Cucumber-Carrot Salad"
+  ],
+  "summary": "Kosher dairy dinner: whole-wheat flatbreads layered with a mashed white-bean spread, ricotta, spinach, roasted red peppers and mozzarella; served with fresh cucumber and carrot salad. About 30 minutes total, 20–25 minutes active."
+}

@@ -1,0 +1,18 @@
+{
+  "number": 3,
+  "title": "Greek Chicken Bowls with Lemon Rice, Cucumber-Tomato Salad & Hummus",
+  "slug": "003-greek-chicken-bowls-with-lemon-rice-cucumber-tomato-salad-hummus",
+  "kosher_category": "meat",
+  "primary_category": "chicken",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "bowl"
+  ],
+  "components_from_title": [
+    "Greek Chicken Bowls",
+    "Lemon Rice",
+    "Cucumber-Tomato Salad",
+    "Hummus"
+  ],
+  "summary": "Kosher meat dinner: Greek Chicken Bowls with Lemon Rice, Cucumber-Tomato Salad & Hummus."
+}

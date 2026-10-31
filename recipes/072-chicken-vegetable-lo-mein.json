@@ -1,0 +1,19 @@
+{
+  "number": 72,
+  "title": "Chicken & Vegetable Lo Mein",
+  "slug": "072-chicken-vegetable-lo-mein",
+  "kosher_category": "meat",
+  "primary_category": "chicken",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "noodles"
+  ],
+  "components_from_title": [
+    "Chicken",
+    "Vegetable Lo Mein"
+  ],
+  "summary": "Kosher meat dinner: Chicken & Vegetable Lo Mein.",
+  "possible_related_or_duplicate_of": [
+    12
+  ]
+}

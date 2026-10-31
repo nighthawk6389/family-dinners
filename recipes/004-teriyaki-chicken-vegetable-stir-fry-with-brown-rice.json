@@ -1,0 +1,17 @@
+{
+  "number": 4,
+  "title": "Teriyaki Chicken & Vegetable Stir-Fry with Brown Rice",
+  "slug": "004-teriyaki-chicken-vegetable-stir-fry-with-brown-rice",
+  "kosher_category": "meat",
+  "primary_category": "chicken",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "plated"
+  ],
+  "components_from_title": [
+    "Teriyaki Chicken",
+    "Vegetable Stir-Fry",
+    "Brown Rice"
+  ],
+  "summary": "Kosher meat dinner: Teriyaki Chicken & Vegetable Stir-Fry with Brown Rice."
+}

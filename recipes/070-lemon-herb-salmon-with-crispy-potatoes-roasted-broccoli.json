@@ -1,0 +1,22 @@
+{
+  "number": 70,
+  "title": "Lemon-Herb Salmon with Crispy Potatoes & Roasted Broccoli",
+  "slug": "070-lemon-herb-salmon-with-crispy-potatoes-roasted-broccoli",
+  "kosher_category": "fish_pareve",
+  "primary_category": "fish",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "plated"
+  ],
+  "components_from_title": [
+    "Lemon-Herb Salmon",
+    "Crispy Potatoes",
+    "Roasted Broccoli"
+  ],
+  "summary": "Kosher fish/pareve dinner: Lemon-Herb Salmon with Crispy Potatoes & Roasted Broccoli.",
+  "possible_related_or_duplicate_of": [
+    1,
+    2,
+    63
+  ]
+}

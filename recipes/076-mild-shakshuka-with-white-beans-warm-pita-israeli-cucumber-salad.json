@@ -1,0 +1,19 @@
+{
+  "number": 76,
+  "title": "Mild Shakshuka with White Beans, Warm Pita & Israeli Cucumber Salad",
+  "slug": "076-mild-shakshuka-with-white-beans-warm-pita-israeli-cucumber-salad",
+  "kosher_category": "pareve",
+  "primary_category": "pareve_breakfast",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "pita_sandwich",
+    "breakfast_for_dinner"
+  ],
+  "components_from_title": [
+    "Mild Shakshuka",
+    "White Beans",
+    "Warm Pita",
+    "Israeli Cucumber Salad"
+  ],
+  "summary": "Kosher pareve dinner: Mild Shakshuka with White Beans, Warm Pita & Israeli Cucumber Salad."
+}

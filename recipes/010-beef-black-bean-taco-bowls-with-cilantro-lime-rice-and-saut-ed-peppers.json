@@ -1,0 +1,19 @@
+{
+  "number": 10,
+  "title": "Beef & Black Bean Taco Bowls with Cilantro-Lime Rice and Sautéed Peppers",
+  "slug": "010-beef-black-bean-taco-bowls-with-cilantro-lime-rice-and-saut-ed-peppers",
+  "kosher_category": "meat",
+  "primary_category": "beef",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "bowl",
+    "tacos"
+  ],
+  "components_from_title": [
+    "Beef",
+    "Black Bean Taco Bowls",
+    "Cilantro-Lime Rice",
+    "Sautéed Peppers"
+  ],
+  "summary": "Kosher meat dinner: Beef & Black Bean Taco Bowls with Cilantro-Lime Rice and Sautéed Peppers."
+}

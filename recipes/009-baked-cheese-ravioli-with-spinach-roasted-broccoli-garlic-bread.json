@@ -1,0 +1,18 @@
+{
+  "number": 9,
+  "title": "Baked Cheese Ravioli with Spinach, Roasted Broccoli & Garlic Bread",
+  "slug": "009-baked-cheese-ravioli-with-spinach-roasted-broccoli-garlic-bread",
+  "kosher_category": "dairy",
+  "primary_category": "dairy_vegetarian",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "pasta_bake"
+  ],
+  "components_from_title": [
+    "Baked Cheese Ravioli",
+    "Spinach",
+    "Roasted Broccoli",
+    "Garlic Bread"
+  ],
+  "summary": "Kosher dairy dinner: Baked Cheese Ravioli with Spinach, Roasted Broccoli & Garlic Bread."
+}

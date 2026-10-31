@@ -1,0 +1,17 @@
+{
+  "number": 41,
+  "title": "Honey-Garlic Chicken & Broccoli Noodle Bowls",
+  "slug": "041-honey-garlic-chicken-broccoli-noodle-bowls",
+  "kosher_category": "meat",
+  "primary_category": "chicken",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "bowl",
+    "noodles"
+  ],
+  "components_from_title": [
+    "Honey-Garlic Chicken",
+    "Broccoli Noodle Bowls"
+  ],
+  "summary": "Kosher meat dinner: Honey-Garlic Chicken & Broccoli Noodle Bowls."
+}

@@ -1,0 +1,18 @@
+{
+  "number": 48,
+  "title": "Chicken Schnitzel Pita Pockets with Israeli Chopped Salad & Oven Potato Wedges",
+  "slug": "048-chicken-schnitzel-pita-pockets-with-israeli-chopped-salad-oven-potato-wedges",
+  "kosher_category": "meat",
+  "primary_category": "chicken",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "pita_sandwich",
+    "schnitzel"
+  ],
+  "components_from_title": [
+    "Chicken Schnitzel Pita Pockets",
+    "Israeli Chopped Salad",
+    "Oven Potato Wedges"
+  ],
+  "summary": "Kosher meat dinner: Chicken Schnitzel Pita Pockets with Israeli Chopped Salad & Oven Potato Wedges."
+}

@@ -1,0 +1,17 @@
+{
+  "number": 46,
+  "title": "Chicken & Vegetable Fried Rice with Edamame",
+  "slug": "046-chicken-vegetable-fried-rice-with-edamame",
+  "kosher_category": "meat",
+  "primary_category": "chicken",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "fried_rice"
+  ],
+  "components_from_title": [
+    "Chicken",
+    "Vegetable Fried Rice",
+    "Edamame"
+  ],
+  "summary": "Kosher meat dinner: Chicken & Vegetable Fried Rice with Edamame."
+}

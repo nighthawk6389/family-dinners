@@ -1,0 +1,17 @@
+{
+  "number": 33,
+  "title": "Mediterranean Baked Haddock with Lemon Herb Orzo & Roasted Asparagus",
+  "slug": "033-mediterranean-baked-haddock-with-lemon-herb-orzo-roasted-asparagus",
+  "kosher_category": "fish_pareve",
+  "primary_category": "fish",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "plated"
+  ],
+  "components_from_title": [
+    "Mediterranean Baked Haddock",
+    "Lemon Herb Orzo",
+    "Roasted Asparagus"
+  ],
+  "summary": "Kosher fish/pareve dinner: Mediterranean Baked Haddock with Lemon Herb Orzo & Roasted Asparagus."
+}

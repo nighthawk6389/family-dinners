@@ -1,0 +1,19 @@
+{
+  "number": 80,
+  "title": "Mediterranean Cod with Tomato-Chickpea Skillet, Spinach & Warm Pita",
+  "slug": "080-mediterranean-cod-with-tomato-chickpea-skillet-spinach-and-warm-pita",
+  "kosher_category": "fish_pareve",
+  "primary_category": "fish",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "one_pan",
+    "skillet",
+    "pita_plate"
+  ],
+  "components_from_title": [
+    "Mediterranean Cod",
+    "Tomato-Chickpea Skillet with Spinach",
+    "Warm Pita"
+  ],
+  "summary": "Kosher fish/pareve, dairy-free cod gently cooked over a mild tomato, chickpea, and spinach skillet with warm whole-wheat pita; deconstructed option for young children."
+}

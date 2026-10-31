@@ -1,0 +1,49 @@
+{
+  "number": 82,
+  "title": "Lemony Chicken & White Bean Minestrone with Tiny Pasta",
+  "slug": "082-lemony-chicken-white-bean-minestrone-with-tiny-pasta",
+  "kosher_category": "meat",
+  "primary_category": "chicken",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "soup",
+    "one_pot",
+    "pasta"
+  ],
+  "components_from_title": [
+    "Lemony Chicken",
+    "White Bean Minestrone",
+    "Tiny Pasta",
+    "Carrots, Zucchini & Spinach"
+  ],
+  "summary": "Kosher meat dinner: dairy-free chicken and white bean vegetable soup with carrots, celery, zucchini, tomatoes and spinach, served with tiny pareve pasta. About 40 minutes total and 25–30 minutes active; serve components separately for young children.",
+  "ingredients": [
+    "1½ lb kosher boneless skinless chicken thighs or breasts",
+    "1 medium onion, diced",
+    "2 carrots, diced",
+    "2 celery stalks, diced",
+    "1 zucchini, diced",
+    "3 garlic cloves, minced",
+    "1 (15 oz) can cannellini beans, rinsed and drained",
+    "1 (14–15 oz) can diced tomatoes",
+    "6 cups kosher-certified dairy-free chicken broth",
+    "¾ cup dry pareve ditalini or small pasta",
+    "2 cups baby spinach",
+    "2 tbsp olive oil",
+    "1 tsp dried oregano",
+    "½ tsp dried basil",
+    "½ lemon",
+    "Salt and pepper to taste"
+  ],
+  "instructions": [
+    "Cook the pasta in a separate pot of salted water until tender; drain and reserve.",
+    "Heat olive oil in a large soup pot. Sauté onion, carrots and celery for 6–7 minutes. Add garlic, zucchini, oregano and basil and cook 2 minutes.",
+    "Add bite-size chicken pieces, tomatoes, beans and broth. Simmer gently for 12–15 minutes, until chicken reaches 165°F and vegetables are tender.",
+    "Stir in spinach and simmer 1–2 minutes. Add lemon juice and adjust salt and pepper.",
+    "Spoon pasta into bowls and ladle the soup over it. Keep extra pasta separate for leftovers."
+  ],
+  "estimated_total_minutes": 40,
+  "estimated_active_minutes": 25,
+  "child_friendly_modifications": "Reserve plain cooked pasta and some mild chicken, soft carrots and beans for separate piles. Serve broth on the side for dipping or sipping; cut chicken into small pieces.",
+  "leftovers": "Refrigerate soup and pasta separately promptly; use within 3–4 days. Reheat soup to 165°F, then add pasta just before serving."
+}

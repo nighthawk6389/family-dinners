@@ -1,0 +1,17 @@
+{
+  "number": 6,
+  "title": "Chicken Shawarma Rice Bowls with Israeli Salad & Roasted Cauliflower",
+  "slug": "006-chicken-shawarma-rice-bowls-with-israeli-salad-roasted-cauliflower",
+  "kosher_category": "meat",
+  "primary_category": "chicken",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "bowl"
+  ],
+  "components_from_title": [
+    "Chicken Shawarma Rice Bowls",
+    "Israeli Salad",
+    "Roasted Cauliflower"
+  ],
+  "summary": "Kosher meat dinner: Chicken Shawarma Rice Bowls with Israeli Salad & Roasted Cauliflower."
+}

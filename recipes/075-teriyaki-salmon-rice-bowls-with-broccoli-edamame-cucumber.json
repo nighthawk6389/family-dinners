@@ -1,0 +1,22 @@
+{
+  "number": 75,
+  "title": "Teriyaki Salmon Rice Bowls with Broccoli, Edamame & Cucumber",
+  "slug": "075-teriyaki-salmon-rice-bowls-with-broccoli-edamame-cucumber",
+  "kosher_category": "fish_pareve",
+  "primary_category": "fish",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "bowl"
+  ],
+  "components_from_title": [
+    "Teriyaki Salmon Rice Bowls",
+    "Broccoli",
+    "Edamame",
+    "Cucumber"
+  ],
+  "summary": "Kosher fish/pareve dinner: Teriyaki Salmon Rice Bowls with Broccoli, Edamame & Cucumber.",
+  "possible_related_or_duplicate_of": [
+    30,
+    53
+  ]
+}

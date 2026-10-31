@@ -1,0 +1,2225 @@
+{
+  "schema_version": "1.0",
+  "exported_at": "2026-10-30T12:00:56-04:00",
+  "title": "Kosher Daily Dinner Idea History",
+  "description": "Compact structured export of the recurring kosher dinner ideas from this ChatGPT conversation. This file is intended as seed data for a website; it includes titles, tags, categories, Shabbat flags, and title-derived components, not every full recipe step.",
+  "preferences": {
+    "kosher": true,
+    "strict_meat_dairy_separation": true,
+    "meat_or_chicken_meals_dairy_free": true,
+    "family": {
+      "children_ages": [
+        5,
+        3
+      ]
+    },
+    "target_active_cooking_minutes": [
+      30,
+      45
+    ],
+    "general_structure": [
+      "protein",
+      "vegetable",
+      "starch"
+    ],
+    "protein_preferences": {
+      "favor": [
+        "chicken",
+        "fish"
+      ],
+      "include": [
+        "dairy",
+        "pareve",
+        "turkey",
+        "beef"
+      ],
+      "fish_frequency_per_week": [
+        1,
+        2
+      ]
+    },
+    "formats_allowed": [
+      "bowls",
+      "tacos",
+      "pasta",
+      "soups",
+      "sandwiches",
+      "breakfast_for_dinner"
+    ],
+    "breakfast_for_dinner_frequency": "about once per month",
+    "leftovers_ok": true,
+    "saturday_skipped": true,
+    "friday_shabbat_friendly": true
+  },
+  "counts": {
+    "total_dinners": 95,
+    "by_primary_category": {
+      "chicken": 45,
+      "fish": 17,
+      "pareve_vegetarian": 5,
+      "dairy_vegetarian": 13,
+      "beef": 3,
+      "turkey": 8,
+      "dairy_breakfast": 1,
+      "pareve_breakfast": 1,
+      "eggs": 1,
+      "vegetarian_dairy": 1
+    },
+    "by_kosher_category": {
+      "meat": 56,
+      "fish_pareve": 17,
+      "pareve": 6,
+      "dairy": 16
+    },
+    "shabbat_friendly_count": 17,
+    "possible_duplicate_or_related_count": 18,
+    "exact_title_duplicate_count": 2
+  },
+  "dinners": [
+    {
+      "number": 1,
+      "title": "Lemon Herb Sheet-Pan Chicken with Roasted Broccoli & Baby Potatoes",
+      "slug": "001-lemon-herb-sheet-pan-chicken-with-roasted-broccoli-baby-potatoes",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "sheet_pan"
+      ],
+      "components_from_title": [
+        "Lemon Herb Sheet-Pan Chicken",
+        "Roasted Broccoli",
+        "Baby Potatoes"
+      ],
+      "summary": "Kosher meat dinner: Lemon Herb Sheet-Pan Chicken with Roasted Broccoli & Baby Potatoes."
+    },
+    {
+      "number": 2,
+      "title": "Honey Garlic Baked Salmon with Herbed Rice Pilaf & Roasted Green Beans",
+      "slug": "002-honey-garlic-baked-salmon-with-herbed-rice-pilaf-roasted-green-beans",
+      "kosher_category": "fish_pareve",
+      "primary_category": "fish",
+      "shabbat_friendly": true,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Honey Garlic Baked Salmon",
+        "Herbed Rice Pilaf",
+        "Roasted Green Beans"
+      ],
+      "summary": "Kosher fish/pareve dinner: Honey Garlic Baked Salmon with Herbed Rice Pilaf & Roasted Green Beans."
+    },
+    {
+      "number": 3,
+      "title": "Greek Chicken Bowls with Lemon Rice, Cucumber-Tomato Salad & Hummus",
+      "slug": "003-greek-chicken-bowls-with-lemon-rice-cucumber-tomato-salad-hummus",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "bowl"
+      ],
+      "components_from_title": [
+        "Greek Chicken Bowls",
+        "Lemon Rice",
+        "Cucumber-Tomato Salad",
+        "Hummus"
+      ],
+      "summary": "Kosher meat dinner: Greek Chicken Bowls with Lemon Rice, Cucumber-Tomato Salad & Hummus."
+    },
+    {
+      "number": 4,
+      "title": "Teriyaki Chicken & Vegetable Stir-Fry with Brown Rice",
+      "slug": "004-teriyaki-chicken-vegetable-stir-fry-with-brown-rice",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Teriyaki Chicken",
+        "Vegetable Stir-Fry",
+        "Brown Rice"
+      ],
+      "summary": "Kosher meat dinner: Teriyaki Chicken & Vegetable Stir-Fry with Brown Rice."
+    },
+    {
+      "number": 5,
+      "title": "Crispy Herb-Panko Chicken Cutlets with Roasted Sweet Potatoes & Garlic Green Beans",
+      "slug": "005-crispy-herb-panko-chicken-cutlets-with-roasted-sweet-potatoes-garlic-green-beans",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Crispy Herb-Panko Chicken Cutlets",
+        "Roasted Sweet Potatoes",
+        "Garlic Green Beans"
+      ],
+      "summary": "Kosher meat dinner: Crispy Herb-Panko Chicken Cutlets with Roasted Sweet Potatoes & Garlic Green Beans."
+    },
+    {
+      "number": 6,
+      "title": "Chicken Shawarma Rice Bowls with Israeli Salad & Roasted Cauliflower",
+      "slug": "006-chicken-shawarma-rice-bowls-with-israeli-salad-roasted-cauliflower",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "bowl"
+      ],
+      "components_from_title": [
+        "Chicken Shawarma Rice Bowls",
+        "Israeli Salad",
+        "Roasted Cauliflower"
+      ],
+      "summary": "Kosher meat dinner: Chicken Shawarma Rice Bowls with Israeli Salad & Roasted Cauliflower."
+    },
+    {
+      "number": 7,
+      "title": "Baked Falafel Pitas with Israeli Salad, Roasted Carrots & Crispy Oven Fries",
+      "slug": "007-baked-falafel-pitas-with-israeli-salad-roasted-carrots-crispy-oven-fries",
+      "kosher_category": "pareve",
+      "primary_category": "pareve_vegetarian",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "pita_sandwich"
+      ],
+      "components_from_title": [
+        "Baked Falafel Pitas",
+        "Israeli Salad",
+        "Roasted Carrots",
+        "Crispy Oven Fries"
+      ],
+      "summary": "Kosher pareve dinner: Baked Falafel Pitas with Israeli Salad, Roasted Carrots & Crispy Oven Fries."
+    },
+    {
+      "number": 8,
+      "title": "Apricot-Dijon Shabbat Chicken with Herbed Israeli Couscous & Roasted Rainbow Carrots",
+      "slug": "008-apricot-dijon-shabbat-chicken-with-herbed-israeli-couscous-roasted-rainbow-carrots",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": true,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Apricot-Dijon Shabbat Chicken",
+        "Herbed Israeli Couscous",
+        "Roasted Rainbow Carrots"
+      ],
+      "summary": "Kosher meat dinner: Apricot-Dijon Shabbat Chicken with Herbed Israeli Couscous & Roasted Rainbow Carrots."
+    },
+    {
+      "number": 9,
+      "title": "Baked Cheese Ravioli with Spinach, Roasted Broccoli & Garlic Bread",
+      "slug": "009-baked-cheese-ravioli-with-spinach-roasted-broccoli-garlic-bread",
+      "kosher_category": "dairy",
+      "primary_category": "dairy_vegetarian",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "pasta_bake"
+      ],
+      "components_from_title": [
+        "Baked Cheese Ravioli",
+        "Spinach",
+        "Roasted Broccoli",
+        "Garlic Bread"
+      ],
+      "summary": "Kosher dairy dinner: Baked Cheese Ravioli with Spinach, Roasted Broccoli & Garlic Bread."
+    },
+    {
+      "number": 10,
+      "title": "Beef & Black Bean Taco Bowls with Cilantro-Lime Rice and Sautéed Peppers",
+      "slug": "010-beef-black-bean-taco-bowls-with-cilantro-lime-rice-and-saut-ed-peppers",
+      "kosher_category": "meat",
+      "primary_category": "beef",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "bowl",
+        "tacos"
+      ],
+      "components_from_title": [
+        "Beef",
+        "Black Bean Taco Bowls",
+        "Cilantro-Lime Rice",
+        "Sautéed Peppers"
+      ],
+      "summary": "Kosher meat dinner: Beef & Black Bean Taco Bowls with Cilantro-Lime Rice and Sautéed Peppers."
+    },
+    {
+      "number": 11,
+      "title": "Maple-Mustard Baked Cod with Wild Rice & Roasted Asparagus",
+      "slug": "011-maple-mustard-baked-cod-with-wild-rice-roasted-asparagus",
+      "kosher_category": "fish_pareve",
+      "primary_category": "fish",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Maple-Mustard Baked Cod",
+        "Wild Rice",
+        "Roasted Asparagus"
+      ],
+      "summary": "Kosher fish/pareve dinner: Maple-Mustard Baked Cod with Wild Rice & Roasted Asparagus."
+    },
+    {
+      "number": 12,
+      "title": "Chicken & Broccoli Lo Mein with Mixed Vegetables",
+      "slug": "012-chicken-broccoli-lo-mein-with-mixed-vegetables",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "noodles"
+      ],
+      "components_from_title": [
+        "Chicken",
+        "Broccoli Lo Mein",
+        "Mixed Vegetables"
+      ],
+      "summary": "Kosher meat dinner: Chicken & Broccoli Lo Mein with Mixed Vegetables."
+    },
+    {
+      "number": 13,
+      "title": "Turkey Meatballs in Tomato Basil Sauce with Whole Wheat Spaghetti & Roasted Zucchini",
+      "slug": "013-turkey-meatballs-in-tomato-basil-sauce-with-whole-wheat-spaghetti-roasted-zucchini",
+      "kosher_category": "meat",
+      "primary_category": "turkey",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "meatballs"
+      ],
+      "components_from_title": [
+        "Turkey Meatballs in Tomato Basil Sauce",
+        "Whole Wheat Spaghetti",
+        "Roasted Zucchini"
+      ],
+      "summary": "Kosher meat dinner: Turkey Meatballs in Tomato Basil Sauce with Whole Wheat Spaghetti & Roasted Zucchini."
+    },
+    {
+      "number": 14,
+      "title": "Herb-Roasted Turkey Breast with Garlic Mashed Potatoes & Honey-Roasted Green Beans",
+      "slug": "014-herb-roasted-turkey-breast-with-garlic-mashed-potatoes-honey-roasted-green-beans",
+      "kosher_category": "meat",
+      "primary_category": "turkey",
+      "shabbat_friendly": true,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Herb-Roasted Turkey Breast",
+        "Garlic Mashed Potatoes",
+        "Honey-Roasted Green Beans"
+      ],
+      "summary": "Kosher meat dinner: Herb-Roasted Turkey Breast with Garlic Mashed Potatoes & Honey-Roasted Green Beans."
+    },
+    {
+      "number": 15,
+      "title": "Spinach & Mushroom Stuffed Shells with Caesar Salad & Garlic Bread",
+      "slug": "015-spinach-mushroom-stuffed-shells-with-caesar-salad-garlic-bread",
+      "kosher_category": "dairy",
+      "primary_category": "dairy_vegetarian",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "pasta_bake",
+        "stuffed"
+      ],
+      "components_from_title": [
+        "Spinach",
+        "Mushroom Stuffed Shells",
+        "Caesar Salad",
+        "Garlic Bread"
+      ],
+      "summary": "Kosher dairy dinner: Spinach & Mushroom Stuffed Shells with Caesar Salad & Garlic Bread."
+    },
+    {
+      "number": 16,
+      "title": "Mediterranean Chickpea & Orzo Soup with Grilled Cheese Dippers",
+      "slug": "016-mediterranean-chickpea-orzo-soup-with-grilled-cheese-dippers",
+      "kosher_category": "dairy",
+      "primary_category": "dairy_vegetarian",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "soup"
+      ],
+      "components_from_title": [
+        "Mediterranean Chickpea",
+        "Orzo Soup",
+        "Grilled Cheese Dippers"
+      ],
+      "summary": "Kosher dairy dinner: Mediterranean Chickpea & Orzo Soup with Grilled Cheese Dippers."
+    },
+    {
+      "number": 17,
+      "title": "Lemon Garlic Chicken Skewers with Mediterranean Couscous & Cucumber Salad",
+      "slug": "017-lemon-garlic-chicken-skewers-with-mediterranean-couscous-cucumber-salad",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "skewers"
+      ],
+      "components_from_title": [
+        "Lemon Garlic Chicken Skewers",
+        "Mediterranean Couscous",
+        "Cucumber Salad"
+      ],
+      "summary": "Kosher meat dinner: Lemon Garlic Chicken Skewers with Mediterranean Couscous & Cucumber Salad."
+    },
+    {
+      "number": 18,
+      "title": "Spinach & Cheddar Egg Muffins with Crispy Hash Browns & Fresh Fruit Salad",
+      "slug": "018-spinach-cheddar-egg-muffins-with-crispy-hash-browns-fresh-fruit-salad",
+      "kosher_category": "dairy",
+      "primary_category": "dairy_breakfast",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "breakfast_for_dinner"
+      ],
+      "components_from_title": [
+        "Spinach",
+        "Cheddar Egg Muffins",
+        "Crispy Hash Browns",
+        "Fresh Fruit Salad"
+      ],
+      "summary": "Kosher dairy dinner: Spinach & Cheddar Egg Muffins with Crispy Hash Browns & Fresh Fruit Salad."
+    },
+    {
+      "number": 19,
+      "title": "Sesame Ginger Tofu & Vegetable Rice Bowls",
+      "slug": "019-sesame-ginger-tofu-vegetable-rice-bowls",
+      "kosher_category": "pareve",
+      "primary_category": "pareve_vegetarian",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "bowl"
+      ],
+      "components_from_title": [
+        "Sesame Ginger Tofu",
+        "Vegetable Rice Bowls"
+      ],
+      "summary": "Kosher pareve dinner: Sesame Ginger Tofu & Vegetable Rice Bowls."
+    },
+    {
+      "number": 20,
+      "title": "Pomegranate Chicken with Roasted Sweet Potatoes & Green Bean Almondine",
+      "slug": "020-pomegranate-chicken-with-roasted-sweet-potatoes-green-bean-almondine",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": true,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Pomegranate Chicken",
+        "Roasted Sweet Potatoes",
+        "Green Bean Almondine"
+      ],
+      "summary": "Kosher meat dinner: Pomegranate Chicken with Roasted Sweet Potatoes & Green Bean Almondine."
+    },
+    {
+      "number": 21,
+      "title": "Mediterranean Baked Salmon Pitas with Roasted Za'atar Cauliflower & Lemon Herb Couscous",
+      "slug": "021-mediterranean-baked-salmon-pitas-with-roasted-zaatar-cauliflower-lemon-herb-couscous",
+      "kosher_category": "fish_pareve",
+      "primary_category": "fish",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "pita_sandwich"
+      ],
+      "components_from_title": [
+        "Mediterranean Baked Salmon Pitas",
+        "Roasted Za'atar Cauliflower",
+        "Lemon Herb Couscous"
+      ],
+      "summary": "Kosher fish/pareve dinner: Mediterranean Baked Salmon Pitas with Roasted Za'atar Cauliflower & Lemon Herb Couscous."
+    },
+    {
+      "number": 22,
+      "title": "Asian Turkey Lettuce Wraps with Jasmine Rice & Sesame Snap Peas",
+      "slug": "022-asian-turkey-lettuce-wraps-with-jasmine-rice-sesame-snap-peas",
+      "kosher_category": "meat",
+      "primary_category": "turkey",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Asian Turkey Lettuce Wraps",
+        "Jasmine Rice",
+        "Sesame Snap Peas"
+      ],
+      "summary": "Kosher meat dinner: Asian Turkey Lettuce Wraps with Jasmine Rice & Sesame Snap Peas."
+    },
+    {
+      "number": 23,
+      "title": "Mediterranean Beef-Stuffed Peppers with Quinoa & Cucumber Salad",
+      "slug": "023-mediterranean-beef-stuffed-peppers-with-quinoa-cucumber-salad",
+      "kosher_category": "meat",
+      "primary_category": "beef",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "stuffed"
+      ],
+      "components_from_title": [
+        "Mediterranean Beef-Stuffed Peppers",
+        "Quinoa",
+        "Cucumber Salad"
+      ],
+      "summary": "Kosher meat dinner: Mediterranean Beef-Stuffed Peppers with Quinoa & Cucumber Salad."
+    },
+    {
+      "number": 24,
+      "title": "Veggie Lasagna Roll-Ups with Roasted Broccolini & Caesar Salad",
+      "slug": "024-veggie-lasagna-roll-ups-with-roasted-broccolini-caesar-salad",
+      "kosher_category": "dairy",
+      "primary_category": "dairy_vegetarian",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "pasta_bake"
+      ],
+      "components_from_title": [
+        "Veggie Lasagna Roll-Ups",
+        "Roasted Broccolini",
+        "Caesar Salad"
+      ],
+      "summary": "Kosher dairy dinner: Veggie Lasagna Roll-Ups with Roasted Broccolini & Caesar Salad."
+    },
+    {
+      "number": 25,
+      "title": "Miso-Glazed Arctic Char with Sesame Green Beans & Brown Rice",
+      "slug": "025-miso-glazed-arctic-char-with-sesame-green-beans-brown-rice",
+      "kosher_category": "fish_pareve",
+      "primary_category": "fish",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Miso-Glazed Arctic Char",
+        "Sesame Green Beans",
+        "Brown Rice"
+      ],
+      "summary": "Kosher fish/pareve dinner: Miso-Glazed Arctic Char with Sesame Green Beans & Brown Rice."
+    },
+    {
+      "number": 26,
+      "title": "Herb-Crusted Roast Beef with Creamy Polenta & Roasted Brussels Sprouts",
+      "slug": "026-herb-crusted-roast-beef-with-creamy-polenta-roasted-brussels-sprouts",
+      "kosher_category": "meat",
+      "primary_category": "beef",
+      "shabbat_friendly": true,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Herb-Crusted Roast Beef",
+        "Creamy Polenta",
+        "Roasted Brussels Sprouts"
+      ],
+      "summary": "Kosher meat dinner: Herb-Crusted Roast Beef with Creamy Polenta & Roasted Brussels Sprouts."
+    },
+    {
+      "number": 27,
+      "title": "Chicken Tinga Tostada Bowls",
+      "slug": "027-chicken-tinga-tostada-bowls",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "bowl"
+      ],
+      "components_from_title": [
+        "Chicken Tinga Tostada Bowls"
+      ],
+      "summary": "Kosher meat dinner: Chicken Tinga Tostada Bowls."
+    },
+    {
+      "number": 28,
+      "title": "Red Lentil Coconut Curry with Basmati Rice & Roasted Broccoli",
+      "slug": "028-red-lentil-coconut-curry-with-basmati-rice-roasted-broccoli",
+      "kosher_category": "pareve",
+      "primary_category": "pareve_vegetarian",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "curry"
+      ],
+      "components_from_title": [
+        "Red Lentil Coconut Curry",
+        "Basmati Rice",
+        "Roasted Broccoli"
+      ],
+      "summary": "Kosher pareve dinner: Red Lentil Coconut Curry with Basmati Rice & Roasted Broccoli."
+    },
+    {
+      "number": 29,
+      "title": "Spinach & White Bean Baked Ziti with Roasted Zucchini & Tomato-Cucumber Salad",
+      "slug": "029-spinach-white-bean-baked-ziti-with-roasted-zucchini-tomato-cucumber-salad",
+      "kosher_category": "dairy",
+      "primary_category": "dairy_vegetarian",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "pasta_bake"
+      ],
+      "components_from_title": [
+        "Spinach",
+        "White Bean Baked Ziti",
+        "Roasted Zucchini",
+        "Tomato-Cucumber Salad"
+      ],
+      "summary": "Kosher dairy dinner: Spinach & White Bean Baked Ziti with Roasted Zucchini & Tomato-Cucumber Salad."
+    },
+    {
+      "number": 30,
+      "title": "Teriyaki Glazed Tilapia Rice Bowls with Edamame & Quick Pickled Cucumbers",
+      "slug": "030-teriyaki-glazed-tilapia-rice-bowls-with-edamame-quick-pickled-cucumbers",
+      "kosher_category": "fish_pareve",
+      "primary_category": "fish",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "bowl"
+      ],
+      "components_from_title": [
+        "Teriyaki Glazed Tilapia Rice Bowls",
+        "Edamame",
+        "Quick Pickled Cucumbers"
+      ],
+      "summary": "Kosher fish/pareve dinner: Teriyaki Glazed Tilapia Rice Bowls with Edamame & Quick Pickled Cucumbers."
+    },
+    {
+      "number": 31,
+      "title": "Korean-Inspired Turkey Bibimbap Bowls",
+      "slug": "031-korean-inspired-turkey-bibimbap-bowls",
+      "kosher_category": "meat",
+      "primary_category": "turkey",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "bowl"
+      ],
+      "components_from_title": [
+        "Korean-Inspired Turkey Bibimbap Bowls"
+      ],
+      "summary": "Kosher meat dinner: Korean-Inspired Turkey Bibimbap Bowls."
+    },
+    {
+      "number": 32,
+      "title": "Moroccan Apricot Chicken with Turmeric Rice & Roasted Rainbow Carrots",
+      "slug": "032-moroccan-apricot-chicken-with-turmeric-rice-roasted-rainbow-carrots",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": true,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Moroccan Apricot Chicken",
+        "Turmeric Rice",
+        "Roasted Rainbow Carrots"
+      ],
+      "summary": "Kosher meat dinner: Moroccan Apricot Chicken with Turmeric Rice & Roasted Rainbow Carrots."
+    },
+    {
+      "number": 33,
+      "title": "Mediterranean Baked Haddock with Lemon Herb Orzo & Roasted Asparagus",
+      "slug": "033-mediterranean-baked-haddock-with-lemon-herb-orzo-roasted-asparagus",
+      "kosher_category": "fish_pareve",
+      "primary_category": "fish",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Mediterranean Baked Haddock",
+        "Lemon Herb Orzo",
+        "Roasted Asparagus"
+      ],
+      "summary": "Kosher fish/pareve dinner: Mediterranean Baked Haddock with Lemon Herb Orzo & Roasted Asparagus."
+    },
+    {
+      "number": 34,
+      "title": "Mediterranean Stuffed Sweet Potatoes with Crispy Chickpeas & Israeli Salad",
+      "slug": "034-mediterranean-stuffed-sweet-potatoes-with-crispy-chickpeas-israeli-salad",
+      "kosher_category": "pareve",
+      "primary_category": "pareve_vegetarian",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "stuffed"
+      ],
+      "components_from_title": [
+        "Mediterranean Stuffed Sweet Potatoes",
+        "Crispy Chickpeas",
+        "Israeli Salad"
+      ],
+      "summary": "Kosher pareve dinner: Mediterranean Stuffed Sweet Potatoes with Crispy Chickpeas & Israeli Salad."
+    },
+    {
+      "number": 35,
+      "title": "Spinach & Broccoli High-Protein Mac & Cheese with White Beans & Cucumber Sticks",
+      "slug": "035-spinach-broccoli-high-protein-mac-cheese-with-white-beans-cucumber-sticks",
+      "kosher_category": "dairy",
+      "primary_category": "dairy_vegetarian",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Spinach",
+        "Broccoli High-Protein Mac",
+        "Cheese",
+        "White Beans",
+        "Cucumber Sticks"
+      ],
+      "summary": "Kosher dairy dinner: Spinach & Broccoli High-Protein Mac & Cheese with White Beans & Cucumber Sticks."
+    },
+    {
+      "number": 36,
+      "title": "Mediterranean Turkey Kofta with Herbed Bulgur & Roasted Cauliflower",
+      "slug": "036-mediterranean-turkey-kofta-with-herbed-bulgur-roasted-cauliflower",
+      "kosher_category": "meat",
+      "primary_category": "turkey",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Mediterranean Turkey Kofta",
+        "Herbed Bulgur",
+        "Roasted Cauliflower"
+      ],
+      "summary": "Kosher meat dinner: Mediterranean Turkey Kofta with Herbed Bulgur & Roasted Cauliflower."
+    },
+    {
+      "number": 37,
+      "title": "Sheet-Pan Lemon-Oregano Chicken Meatballs with Roasted Vegetables & Garlic Herb Couscous",
+      "slug": "037-sheet-pan-lemon-oregano-chicken-meatballs-with-roasted-vegetables-garlic-herb-couscous",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "sheet_pan",
+        "meatballs"
+      ],
+      "components_from_title": [
+        "Sheet-Pan Lemon-Oregano Chicken Meatballs",
+        "Roasted Vegetables",
+        "Garlic Herb Couscous"
+      ],
+      "summary": "Kosher meat dinner: Sheet-Pan Lemon-Oregano Chicken Meatballs with Roasted Vegetables & Garlic Herb Couscous."
+    },
+    {
+      "number": 38,
+      "title": "Maple-Soy Shabbat Chicken with Sesame Green Beans & Ginger Rice",
+      "slug": "038-maple-soy-shabbat-chicken-with-sesame-green-beans-ginger-rice",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": true,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Maple-Soy Shabbat Chicken",
+        "Sesame Green Beans",
+        "Ginger Rice"
+      ],
+      "summary": "Kosher meat dinner: Maple-Soy Shabbat Chicken with Sesame Green Beans & Ginger Rice."
+    },
+    {
+      "number": 39,
+      "title": "Crispy Salmon Tacos with Avocado-Lime Slaw & Corn",
+      "slug": "039-crispy-salmon-tacos-with-avocado-lime-slaw-corn",
+      "kosher_category": "fish_pareve",
+      "primary_category": "fish",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "tacos"
+      ],
+      "components_from_title": [
+        "Crispy Salmon Tacos",
+        "Avocado-Lime Slaw",
+        "Corn"
+      ],
+      "summary": "Kosher fish/pareve dinner: Crispy Salmon Tacos with Avocado-Lime Slaw & Corn."
+    },
+    {
+      "number": 40,
+      "title": "Chicken Fajita Rice Bowls with Peppers, Corn & Avocado",
+      "slug": "040-chicken-fajita-rice-bowls-with-peppers-corn-avocado",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "bowl"
+      ],
+      "components_from_title": [
+        "Chicken Fajita Rice Bowls",
+        "Peppers",
+        "Corn",
+        "Avocado"
+      ],
+      "summary": "Kosher meat dinner: Chicken Fajita Rice Bowls with Peppers, Corn & Avocado."
+    },
+    {
+      "number": 41,
+      "title": "Honey-Garlic Chicken & Broccoli Noodle Bowls",
+      "slug": "041-honey-garlic-chicken-broccoli-noodle-bowls",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "bowl",
+        "noodles"
+      ],
+      "components_from_title": [
+        "Honey-Garlic Chicken",
+        "Broccoli Noodle Bowls"
+      ],
+      "summary": "Kosher meat dinner: Honey-Garlic Chicken & Broccoli Noodle Bowls."
+    },
+    {
+      "number": 42,
+      "title": "Turkey Sloppy Joes with Roasted Sweet-Potato Wedges & Cucumber Salad",
+      "slug": "042-turkey-sloppy-joes-with-roasted-sweet-potato-wedges-cucumber-salad",
+      "kosher_category": "meat",
+      "primary_category": "turkey",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "sandwiches"
+      ],
+      "components_from_title": [
+        "Turkey Sloppy Joes",
+        "Roasted Sweet-Potato Wedges",
+        "Cucumber Salad"
+      ],
+      "summary": "Kosher meat dinner: Turkey Sloppy Joes with Roasted Sweet-Potato Wedges & Cucumber Salad."
+    },
+    {
+      "number": 43,
+      "title": "One-Pan Chicken Sausage, Peppers & Potatoes",
+      "slug": "043-one-pan-chicken-sausage-peppers-potatoes",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "One-Pan Chicken Sausage",
+        "Peppers",
+        "Potatoes"
+      ],
+      "summary": "Kosher meat dinner: One-Pan Chicken Sausage, Peppers & Potatoes."
+    },
+    {
+      "number": 44,
+      "title": "Shabbat BBQ Chicken Thighs with Corn-Potato Mash & Roasted Green Beans",
+      "slug": "044-shabbat-bbq-chicken-thighs-with-corn-potato-mash-roasted-green-beans",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": true,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Shabbat BBQ Chicken Thighs",
+        "Corn-Potato Mash",
+        "Roasted Green Beans"
+      ],
+      "summary": "Kosher meat dinner: Shabbat BBQ Chicken Thighs with Corn-Potato Mash & Roasted Green Beans."
+    },
+    {
+      "number": 45,
+      "title": "Crispy Cod Fish Sticks with Roasted Potato Coins & Peas",
+      "slug": "045-crispy-cod-fish-sticks-with-roasted-potato-coins-peas",
+      "kosher_category": "fish_pareve",
+      "primary_category": "fish",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "fish_sticks"
+      ],
+      "components_from_title": [
+        "Crispy Cod Fish Sticks",
+        "Roasted Potato Coins",
+        "Peas"
+      ],
+      "summary": "Kosher fish/pareve dinner: Crispy Cod Fish Sticks with Roasted Potato Coins & Peas."
+    },
+    {
+      "number": 46,
+      "title": "Chicken & Vegetable Fried Rice with Edamame",
+      "slug": "046-chicken-vegetable-fried-rice-with-edamame",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "fried_rice"
+      ],
+      "components_from_title": [
+        "Chicken",
+        "Vegetable Fried Rice",
+        "Edamame"
+      ],
+      "summary": "Kosher meat dinner: Chicken & Vegetable Fried Rice with Edamame."
+    },
+    {
+      "number": 47,
+      "title": "Greek-Style Chicken Burgers with Lemon Potatoes & Tomato-Cucumber Salad",
+      "slug": "047-greek-style-chicken-burgers-with-lemon-potatoes-tomato-cucumber-salad",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "burgers"
+      ],
+      "components_from_title": [
+        "Greek-Style Chicken Burgers",
+        "Lemon Potatoes",
+        "Tomato-Cucumber Salad"
+      ],
+      "summary": "Kosher meat dinner: Greek-Style Chicken Burgers with Lemon Potatoes & Tomato-Cucumber Salad."
+    },
+    {
+      "number": 48,
+      "title": "Chicken Schnitzel Pita Pockets with Israeli Chopped Salad & Oven Potato Wedges",
+      "slug": "048-chicken-schnitzel-pita-pockets-with-israeli-chopped-salad-oven-potato-wedges",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "pita_sandwich",
+        "schnitzel"
+      ],
+      "components_from_title": [
+        "Chicken Schnitzel Pita Pockets",
+        "Israeli Chopped Salad",
+        "Oven Potato Wedges"
+      ],
+      "summary": "Kosher meat dinner: Chicken Schnitzel Pita Pockets with Israeli Chopped Salad & Oven Potato Wedges."
+    },
+    {
+      "number": 49,
+      "title": "Baked Eggplant Parmesan with Whole-Wheat Spaghetti & Garlicky Broccoli",
+      "slug": "049-baked-eggplant-parmesan-with-whole-wheat-spaghetti-garlicky-broccoli",
+      "kosher_category": "dairy",
+      "primary_category": "dairy_vegetarian",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Baked Eggplant Parmesan",
+        "Whole-Wheat Spaghetti",
+        "Garlicky Broccoli"
+      ],
+      "summary": "Kosher dairy dinner: Baked Eggplant Parmesan with Whole-Wheat Spaghetti & Garlicky Broccoli."
+    },
+    {
+      "number": 50,
+      "title": "Shabbat Lemon-Garlic Chicken with Rice, Chickpeas & Roasted Carrots",
+      "slug": "050-shabbat-lemon-garlic-chicken-with-rice-chickpeas-roasted-carrots",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": true,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Shabbat Lemon-Garlic Chicken",
+        "Rice",
+        "Chickpeas",
+        "Roasted Carrots"
+      ],
+      "summary": "Kosher meat dinner: Shabbat Lemon-Garlic Chicken with Rice, Chickpeas & Roasted Carrots."
+    },
+    {
+      "number": 51,
+      "title": "Sheet-Pan Za’atar Chicken with Crispy Potatoes, Zucchini & Lemon-Tahini",
+      "slug": "051-sheet-pan-zaatar-chicken-with-crispy-potatoes-zucchini-lemon-tahini",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "sheet_pan"
+      ],
+      "components_from_title": [
+        "Sheet-Pan Za’atar Chicken",
+        "Crispy Potatoes",
+        "Zucchini",
+        "Lemon-Tahini"
+      ],
+      "summary": "Kosher meat dinner: Sheet-Pan Za’atar Chicken with Crispy Potatoes, Zucchini & Lemon-Tahini."
+    },
+    {
+      "number": 52,
+      "title": "Mediterranean Turkey Kofta with Couscous & Roasted Cauliflower",
+      "slug": "052-mediterranean-turkey-kofta-with-couscous-roasted-cauliflower",
+      "kosher_category": "meat",
+      "primary_category": "turkey",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Mediterranean Turkey Kofta",
+        "Couscous",
+        "Roasted Cauliflower"
+      ],
+      "summary": "Kosher meat dinner: Mediterranean Turkey Kofta with Couscous & Roasted Cauliflower.",
+      "possible_related_or_duplicate_of": [
+        36
+      ]
+    },
+    {
+      "number": 53,
+      "title": "Miso-Glazed Salmon with Sesame Broccoli & Rice",
+      "slug": "053-miso-glazed-salmon-with-sesame-broccoli-rice",
+      "kosher_category": "fish_pareve",
+      "primary_category": "fish",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Miso-Glazed Salmon",
+        "Sesame Broccoli",
+        "Rice"
+      ],
+      "summary": "Kosher fish/pareve dinner: Miso-Glazed Salmon with Sesame Broccoli & Rice."
+    },
+    {
+      "number": 54,
+      "title": "Chicken Shawarma Couscous Bowls with Roasted Cauliflower & Cucumber",
+      "slug": "054-chicken-shawarma-couscous-bowls-with-roasted-cauliflower-cucumber",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "bowl"
+      ],
+      "components_from_title": [
+        "Chicken Shawarma Couscous Bowls",
+        "Roasted Cauliflower",
+        "Cucumber"
+      ],
+      "summary": "Kosher meat dinner: Chicken Shawarma Couscous Bowls with Roasted Cauliflower & Cucumber.",
+      "possible_related_or_duplicate_of": [
+        6
+      ]
+    },
+    {
+      "number": 55,
+      "title": "Veggie & Cheese Quesadillas with Black Beans, Corn & Avocado Salad",
+      "slug": "055-veggie-cheese-quesadillas-with-black-beans-corn-avocado-salad",
+      "kosher_category": "dairy",
+      "primary_category": "dairy_vegetarian",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "quesadillas"
+      ],
+      "components_from_title": [
+        "Veggie",
+        "Cheese Quesadillas",
+        "Black Beans",
+        "Corn",
+        "Avocado Salad"
+      ],
+      "summary": "Kosher dairy dinner: Veggie & Cheese Quesadillas with Black Beans, Corn & Avocado Salad."
+    },
+    {
+      "number": 56,
+      "title": "Shabbat Apricot-Dijon Chicken with Sweet Potatoes & Green Beans",
+      "slug": "056-shabbat-apricot-dijon-chicken-with-sweet-potatoes-green-beans",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": true,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Shabbat Apricot-Dijon Chicken",
+        "Sweet Potatoes",
+        "Green Beans"
+      ],
+      "summary": "Kosher meat dinner: Shabbat Apricot-Dijon Chicken with Sweet Potatoes & Green Beans.",
+      "possible_related_or_duplicate_of": [
+        8
+      ]
+    },
+    {
+      "number": 57,
+      "title": "Chicken Fajita Rice Bowls with Peppers, Corn & Avocado",
+      "slug": "057-chicken-fajita-rice-bowls-with-peppers-corn-avocado",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "bowl"
+      ],
+      "components_from_title": [
+        "Chicken Fajita Rice Bowls",
+        "Peppers",
+        "Corn",
+        "Avocado"
+      ],
+      "summary": "Kosher meat dinner: Chicken Fajita Rice Bowls with Peppers, Corn & Avocado.",
+      "possible_related_or_duplicate_of": [
+        40
+      ],
+      "exact_title_duplicate_of": 40
+    },
+    {
+      "number": 58,
+      "title": "Teriyaki Chicken Meatballs with Rice & Roasted Green Beans",
+      "slug": "058-teriyaki-chicken-meatballs-with-rice-roasted-green-beans",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "meatballs"
+      ],
+      "components_from_title": [
+        "Teriyaki Chicken Meatballs",
+        "Rice",
+        "Roasted Green Beans"
+      ],
+      "summary": "Kosher meat dinner: Teriyaki Chicken Meatballs with Rice & Roasted Green Beans.",
+      "possible_related_or_duplicate_of": [
+        37
+      ]
+    },
+    {
+      "number": 59,
+      "title": "Crispy Baked Fish Tacos with Lime Slaw, Avocado & Black Beans",
+      "slug": "059-crispy-baked-fish-tacos-with-lime-slaw-avocado-black-beans",
+      "kosher_category": "fish_pareve",
+      "primary_category": "fish",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "tacos"
+      ],
+      "components_from_title": [
+        "Crispy Baked Fish Tacos",
+        "Lime Slaw",
+        "Avocado",
+        "Black Beans"
+      ],
+      "summary": "Kosher fish/pareve dinner: Crispy Baked Fish Tacos with Lime Slaw, Avocado & Black Beans.",
+      "possible_related_or_duplicate_of": [
+        39
+      ]
+    },
+    {
+      "number": 60,
+      "title": "One-Pot Lemon Chicken Orzo with Spinach & Peas",
+      "slug": "060-one-pot-lemon-chicken-orzo-with-spinach-peas",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "One-Pot Lemon Chicken Orzo",
+        "Spinach",
+        "Peas"
+      ],
+      "summary": "Kosher meat dinner: One-Pot Lemon Chicken Orzo with Spinach & Peas.",
+      "possible_related_or_duplicate_of": [
+        33
+      ]
+    },
+    {
+      "number": 61,
+      "title": "Sheet-Pan Honey-Garlic Chicken, Broccoli & Baby Potatoes",
+      "slug": "061-sheet-pan-honey-garlic-chicken-broccoli-baby-potatoes",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "sheet_pan"
+      ],
+      "components_from_title": [
+        "Sheet-Pan Honey-Garlic Chicken",
+        "Broccoli",
+        "Baby Potatoes"
+      ],
+      "summary": "Kosher meat dinner: Sheet-Pan Honey-Garlic Chicken, Broccoli & Baby Potatoes.",
+      "possible_related_or_duplicate_of": [
+        1,
+        41
+      ]
+    },
+    {
+      "number": 62,
+      "title": "Shabbat Maple-Balsamic Chicken with Carrots & Herbed Rice",
+      "slug": "062-shabbat-maple-balsamic-chicken-with-carrots-herbed-rice",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": true,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Shabbat Maple-Balsamic Chicken",
+        "Carrots",
+        "Herbed Rice"
+      ],
+      "summary": "Kosher meat dinner: Shabbat Maple-Balsamic Chicken with Carrots & Herbed Rice."
+    },
+    {
+      "number": 63,
+      "title": "Mediterranean Salmon Pita Plates with Roasted Zucchini & Lemon Potatoes",
+      "slug": "063-mediterranean-salmon-pita-plates-with-roasted-zucchini-lemon-potatoes",
+      "kosher_category": "fish_pareve",
+      "primary_category": "fish",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "pita_sandwich"
+      ],
+      "components_from_title": [
+        "Mediterranean Salmon Pita Plates",
+        "Roasted Zucchini",
+        "Lemon Potatoes"
+      ],
+      "summary": "Kosher fish/pareve dinner: Mediterranean Salmon Pita Plates with Roasted Zucchini & Lemon Potatoes."
+    },
+    {
+      "number": 64,
+      "title": "Turkey & Veggie Stuffed Baked Potatoes",
+      "slug": "064-turkey-veggie-stuffed-baked-potatoes",
+      "kosher_category": "meat",
+      "primary_category": "turkey",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "stuffed"
+      ],
+      "components_from_title": [
+        "Turkey",
+        "Veggie Stuffed Baked Potatoes"
+      ],
+      "summary": "Kosher meat dinner: Turkey & Veggie Stuffed Baked Potatoes."
+    },
+    {
+      "number": 65,
+      "title": "Shabbat Chicken Meatballs with Tomato Sauce, Couscous & Roasted Green Beans",
+      "slug": "065-shabbat-chicken-meatballs-with-tomato-sauce-couscous-roasted-green-beans",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": true,
+      "meal_formats": [
+        "meatballs"
+      ],
+      "components_from_title": [
+        "Shabbat Chicken Meatballs",
+        "Tomato Sauce",
+        "Couscous",
+        "Roasted Green Beans"
+      ],
+      "summary": "Kosher meat dinner: Shabbat Chicken Meatballs with Tomato Sauce, Couscous & Roasted Green Beans.",
+      "possible_related_or_duplicate_of": [
+        37,
+        58
+      ]
+    },
+    {
+      "number": 66,
+      "title": "Crispy Fish Schnitzel, Israeli Salad & Oven Potato Wedges",
+      "slug": "066-crispy-fish-schnitzel-israeli-salad-oven-potato-wedges",
+      "kosher_category": "fish_pareve",
+      "primary_category": "fish",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "schnitzel"
+      ],
+      "components_from_title": [
+        "Crispy Fish Schnitzel",
+        "Israeli Salad",
+        "Oven Potato Wedges"
+      ],
+      "summary": "Kosher fish/pareve dinner: Crispy Fish Schnitzel, Israeli Salad & Oven Potato Wedges."
+    },
+    {
+      "number": 67,
+      "title": "Sheet-Pan Shawarma Chicken Bowls with Roasted Cauliflower & Couscous",
+      "slug": "067-sheet-pan-shawarma-chicken-bowls-with-roasted-cauliflower-couscous",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "sheet_pan",
+        "bowl"
+      ],
+      "components_from_title": [
+        "Sheet-Pan Shawarma Chicken Bowls",
+        "Roasted Cauliflower",
+        "Couscous"
+      ],
+      "summary": "Kosher meat dinner: Sheet-Pan Shawarma Chicken Bowls with Roasted Cauliflower & Couscous.",
+      "possible_related_or_duplicate_of": [
+        6,
+        54
+      ]
+    },
+    {
+      "number": 68,
+      "title": "Cheesy Spinach & White Bean Baked Ziti with Roasted Broccoli",
+      "slug": "068-cheesy-spinach-white-bean-baked-ziti-with-roasted-broccoli",
+      "kosher_category": "dairy",
+      "primary_category": "dairy_vegetarian",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "pasta_bake"
+      ],
+      "components_from_title": [
+        "Cheesy Spinach",
+        "White Bean Baked Ziti",
+        "Roasted Broccoli"
+      ],
+      "summary": "Kosher dairy dinner: Cheesy Spinach & White Bean Baked Ziti with Roasted Broccoli.",
+      "possible_related_or_duplicate_of": [
+        29
+      ]
+    },
+    {
+      "number": 69,
+      "title": "Honey-Garlic Chicken, Sweet Potato & Green Bean Sheet-Pan Dinner",
+      "slug": "069-honey-garlic-chicken-sweet-potato-green-bean-sheet-pan-dinner",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "sheet_pan"
+      ],
+      "components_from_title": [
+        "Honey-Garlic Chicken",
+        "Sweet Potato",
+        "Green Bean Sheet-Pan Dinner"
+      ],
+      "summary": "Kosher meat dinner: Honey-Garlic Chicken, Sweet Potato & Green Bean Sheet-Pan Dinner.",
+      "possible_related_or_duplicate_of": [
+        20,
+        56,
+        61
+      ]
+    },
+    {
+      "number": 70,
+      "title": "Lemon-Herb Salmon with Crispy Potatoes & Roasted Broccoli",
+      "slug": "070-lemon-herb-salmon-with-crispy-potatoes-roasted-broccoli",
+      "kosher_category": "fish_pareve",
+      "primary_category": "fish",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Lemon-Herb Salmon",
+        "Crispy Potatoes",
+        "Roasted Broccoli"
+      ],
+      "summary": "Kosher fish/pareve dinner: Lemon-Herb Salmon with Crispy Potatoes & Roasted Broccoli.",
+      "possible_related_or_duplicate_of": [
+        1,
+        2,
+        63
+      ]
+    },
+    {
+      "number": 71,
+      "title": "Shabbat Apricot-Dijon Chicken with Herbed Rice & Roasted Carrots",
+      "slug": "071-shabbat-apricot-dijon-chicken-with-herbed-rice-roasted-carrots",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": true,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Shabbat Apricot-Dijon Chicken",
+        "Herbed Rice",
+        "Roasted Carrots"
+      ],
+      "summary": "Kosher meat dinner: Shabbat Apricot-Dijon Chicken with Herbed Rice & Roasted Carrots.",
+      "possible_related_or_duplicate_of": [
+        8,
+        56
+      ]
+    },
+    {
+      "number": 72,
+      "title": "Chicken & Vegetable Lo Mein",
+      "slug": "072-chicken-vegetable-lo-mein",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "noodles"
+      ],
+      "components_from_title": [
+        "Chicken",
+        "Vegetable Lo Mein"
+      ],
+      "summary": "Kosher meat dinner: Chicken & Vegetable Lo Mein.",
+      "possible_related_or_duplicate_of": [
+        12
+      ]
+    },
+    {
+      "number": 73,
+      "title": "Black Bean & Cheese Quesadillas with Corn-Avocado Salad",
+      "slug": "073-black-bean-cheese-quesadillas-with-corn-avocado-salad",
+      "kosher_category": "dairy",
+      "primary_category": "dairy_vegetarian",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "quesadillas"
+      ],
+      "components_from_title": [
+        "Black Bean",
+        "Cheese Quesadillas",
+        "Corn-Avocado Salad"
+      ],
+      "summary": "Kosher dairy dinner: Black Bean & Cheese Quesadillas with Corn-Avocado Salad.",
+      "possible_related_or_duplicate_of": [
+        55
+      ]
+    },
+    {
+      "number": 74,
+      "title": "Chicken Fajita Rice Bowls with Peppers, Corn & Avocado",
+      "slug": "074-chicken-fajita-rice-bowls-with-peppers-corn-avocado",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "bowl"
+      ],
+      "components_from_title": [
+        "Chicken Fajita Rice Bowls",
+        "Peppers",
+        "Corn",
+        "Avocado"
+      ],
+      "summary": "Kosher meat dinner: Chicken Fajita Rice Bowls with Peppers, Corn & Avocado.",
+      "possible_related_or_duplicate_of": [
+        40,
+        57
+      ],
+      "exact_title_duplicate_of": 40
+    },
+    {
+      "number": 75,
+      "title": "Teriyaki Salmon Rice Bowls with Broccoli, Edamame & Cucumber",
+      "slug": "075-teriyaki-salmon-rice-bowls-with-broccoli-edamame-cucumber",
+      "kosher_category": "fish_pareve",
+      "primary_category": "fish",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "bowl"
+      ],
+      "components_from_title": [
+        "Teriyaki Salmon Rice Bowls",
+        "Broccoli",
+        "Edamame",
+        "Cucumber"
+      ],
+      "summary": "Kosher fish/pareve dinner: Teriyaki Salmon Rice Bowls with Broccoli, Edamame & Cucumber.",
+      "possible_related_or_duplicate_of": [
+        30,
+        53
+      ]
+    },
+    {
+      "number": 76,
+      "title": "Mild Shakshuka with White Beans, Warm Pita & Israeli Cucumber Salad",
+      "slug": "076-mild-shakshuka-with-white-beans-warm-pita-israeli-cucumber-salad",
+      "kosher_category": "pareve",
+      "primary_category": "pareve_breakfast",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "pita_sandwich",
+        "breakfast_for_dinner"
+      ],
+      "components_from_title": [
+        "Mild Shakshuka",
+        "White Beans",
+        "Warm Pita",
+        "Israeli Cucumber Salad"
+      ],
+      "summary": "Kosher pareve dinner: Mild Shakshuka with White Beans, Warm Pita & Israeli Cucumber Salad."
+    },
+    {
+      "number": 77,
+      "title": "Apple-Cider Chicken with Butternut Squash & Herbed Couscous",
+      "slug": "077-apple-cider-chicken-with-butternut-squash-herbed-couscous",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": true,
+      "meal_formats": [
+        "plated"
+      ],
+      "components_from_title": [
+        "Apple-Cider Chicken",
+        "Butternut Squash",
+        "Herbed Couscous"
+      ],
+      "summary": "Kosher meat dinner: Apple-Cider Chicken with Butternut Squash & Herbed Couscous."
+    },
+    {
+      "number": 78,
+      "title": "Crispy Chickpea & Zucchini Fritters with Lemon Quinoa and Cucumber Salad",
+      "slug": "078-crispy-chickpea-zucchini-fritters-with-lemon-quinoa-and-cucumber-salad",
+      "kosher_category": "pareve",
+      "primary_category": "pareve_vegetarian",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "fritters"
+      ],
+      "components_from_title": [
+        "Crispy Chickpea",
+        "Zucchini Fritters",
+        "Lemon Quinoa",
+        "Cucumber Salad"
+      ],
+      "summary": "Kosher pareve dinner: Crispy Chickpea & Zucchini Fritters with Lemon Quinoa and Cucumber Salad."
+    },
+    {
+      "number": 79,
+      "title": "Oven-Baked Chicken Satay with Coconut Rice & Crunchy Cucumber-Carrot Salad",
+      "slug": "079-oven-baked-chicken-satay-with-coconut-rice-and-crunchy-cucumber-carrot-salad",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "sheet_pan",
+        "rice_plate"
+      ],
+      "components_from_title": [
+        "Oven-Baked Chicken Satay",
+        "Coconut Rice",
+        "Crunchy Cucumber-Carrot Salad"
+      ],
+      "summary": "Kosher meat, completely dairy-free chicken satay with peanut-lime sauce, coconut rice, and cucumber-carrot salad."
+    },
+    {
+      "number": 80,
+      "title": "Mediterranean Cod with Tomato-Chickpea Skillet, Spinach & Warm Pita",
+      "slug": "080-mediterranean-cod-with-tomato-chickpea-skillet-spinach-and-warm-pita",
+      "kosher_category": "fish_pareve",
+      "primary_category": "fish",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "one_pan",
+        "skillet",
+        "pita_plate"
+      ],
+      "components_from_title": [
+        "Mediterranean Cod",
+        "Tomato-Chickpea Skillet with Spinach",
+        "Warm Pita"
+      ],
+      "summary": "Kosher fish/pareve, dairy-free cod gently cooked over a mild tomato, chickpea, and spinach skillet with warm whole-wheat pita; deconstructed option for young children."
+    },
+    {
+      "number": 81,
+      "title": "White Bean & Spinach Flatbread Pizzas with Mozzarella, Roasted Peppers & Cucumber-Carrot Salad",
+      "slug": "081-white-bean-spinach-flatbread-pizzas-with-mozzarella-roasted-peppers-cucumber-carrot-salad",
+      "kosher_category": "dairy",
+      "primary_category": "dairy_vegetarian",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "flatbread",
+        "pizza",
+        "plated"
+      ],
+      "components_from_title": [
+        "White Bean & Spinach Flatbread Pizzas",
+        "Mozzarella",
+        "Roasted Peppers",
+        "Cucumber-Carrot Salad"
+      ],
+      "summary": "Kosher dairy dinner: whole-wheat flatbreads layered with a mashed white-bean spread, ricotta, spinach, roasted red peppers and mozzarella; served with fresh cucumber and carrot salad. About 30 minutes total, 20–25 minutes active."
+    },
+    {
+      "number": 82,
+      "title": "Lemony Chicken & White Bean Minestrone with Tiny Pasta",
+      "slug": "082-lemony-chicken-white-bean-minestrone-with-tiny-pasta",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "soup",
+        "one_pot",
+        "pasta"
+      ],
+      "components_from_title": [
+        "Lemony Chicken",
+        "White Bean Minestrone",
+        "Tiny Pasta",
+        "Carrots, Zucchini & Spinach"
+      ],
+      "summary": "Kosher meat dinner: dairy-free chicken and white bean vegetable soup with carrots, celery, zucchini, tomatoes and spinach, served with tiny pareve pasta. About 40 minutes total and 25–30 minutes active; serve components separately for young children.",
+      "ingredients": [
+        "1½ lb kosher boneless skinless chicken thighs or breasts",
+        "1 medium onion, diced",
+        "2 carrots, diced",
+        "2 celery stalks, diced",
+        "1 zucchini, diced",
+        "3 garlic cloves, minced",
+        "1 (15 oz) can cannellini beans, rinsed and drained",
+        "1 (14–15 oz) can diced tomatoes",
+        "6 cups kosher-certified dairy-free chicken broth",
+        "¾ cup dry pareve ditalini or small pasta",
+        "2 cups baby spinach",
+        "2 tbsp olive oil",
+        "1 tsp dried oregano",
+        "½ tsp dried basil",
+        "½ lemon",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Cook the pasta in a separate pot of salted water until tender; drain and reserve.",
+        "Heat olive oil in a large soup pot. Sauté onion, carrots and celery for 6–7 minutes. Add garlic, zucchini, oregano and basil and cook 2 minutes.",
+        "Add bite-size chicken pieces, tomatoes, beans and broth. Simmer gently for 12–15 minutes, until chicken reaches 165°F and vegetables are tender.",
+        "Stir in spinach and simmer 1–2 minutes. Add lemon juice and adjust salt and pepper.",
+        "Spoon pasta into bowls and ladle the soup over it. Keep extra pasta separate for leftovers."
+      ],
+      "estimated_total_minutes": 40,
+      "estimated_active_minutes": 25,
+      "child_friendly_modifications": "Reserve plain cooked pasta and some mild chicken, soft carrots and beans for separate piles. Serve broth on the side for dipping or sipping; cut chicken into small pieces.",
+      "leftovers": "Refrigerate soup and pasta separately promptly; use within 3–4 days. Reheat soup to 165°F, then add pasta just before serving."
+    },
+    {
+      "number": 83,
+      "title": "Shabbat Chicken with Leeks & Mushrooms, Olive-Oil Mashed Potatoes & Sweet Peas",
+      "slug": "083-shabbat-chicken-leeks-mushrooms-olive-oil-mashed-potatoes-sweet-peas",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": true,
+      "meal_formats": [
+        "braised",
+        "plated",
+        "make_ahead"
+      ],
+      "components_from_title": [
+        "Braised Chicken with Leeks & Mushrooms",
+        "Olive-Oil Mashed Potatoes",
+        "Sweet Peas"
+      ],
+      "summary": "Dairy-free Shabbat chicken thighs braised with tender leeks and mushrooms, served with olive-oil mashed potatoes and sweet peas. Approximately 50 minutes total, 30–35 minutes active. Make ahead and hold hot safely before Shabbat.",
+      "ingredients": [
+        "2 lb kosher boneless skinless chicken thighs",
+        "2 medium leeks, white and light-green parts only, thoroughly washed and sliced",
+        "8 oz cremini mushrooms, sliced",
+        "2 garlic cloves, minced",
+        "3 tbsp olive oil, divided, plus more as needed",
+        "¾ cup kosher-certified dairy-free chicken broth, plus ¼–½ cup for potatoes",
+        "1 tsp dried thyme",
+        "½ tsp paprika",
+        "2 lb Yukon Gold potatoes, peeled or scrubbed and cut into chunks",
+        "2 cups frozen peas",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Put potato chunks in a pot of salted water, bring to a boil and simmer 15–20 minutes until fork-tender.",
+        "Season chicken with paprika, thyme, salt and pepper. Heat 1 tbsp olive oil in a deep skillet and sear chicken 3–4 minutes per side; remove to a plate.",
+        "Add 1 tbsp olive oil, leeks and mushrooms to the skillet; sauté 6–8 minutes until soft. Add garlic and cook 30 seconds.",
+        "Add ¾ cup dairy-free chicken broth, return chicken and juices, cover and simmer gently 15–20 minutes until the thickest chicken pieces reach at least 165°F.",
+        "Drain potatoes and mash with remaining olive oil and ¼–½ cup warm dairy-free broth until fluffy. Season to taste. Never add butter, milk or cream.",
+        "Warm peas in a small covered pot with a splash of water for 3–4 minutes; drain. Serve with chicken, leek-mushroom sauce and mashed potatoes."
+      ],
+      "estimated_total_minutes": 50,
+      "estimated_active_minutes": 35,
+      "child_friendly_modifications": "Reserve a couple of lightly seasoned chicken pieces and serve chopped, with plain mashed potatoes and peas in separate piles. Offer the leek-mushroom sauce on the side. Mash peas lightly for younger children if needed.",
+      "leftovers": "Refrigerate within two hours and use within 3–4 days. Shred leftover chicken into dairy-free potato bowls with warmed peas and leek sauce; reheat to 165°F.",
+      "shabbat_preparation": "Prepare completely before Shabbat, or make a day ahead and refrigerate promptly. Before Shabbat, reheat thoroughly to 165°F and use a Shabbat-compliant warming arrangement that maintains food at 140°F or hotter; follow family halachic practice. Keep chicken covered with sauce and potatoes covered with a little broth so neither dries out."
+    },
+    {
+      "number": 84,
+      "title": "Creamy Butternut Squash Gnocchi with Spinach, Sweet Peas & Ricotta",
+      "slug": "084-creamy-butternut-squash-gnocchi-with-spinach-sweet-peas-ricotta",
+      "kosher_category": "dairy",
+      "primary_category": "dairy_vegetarian",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "pasta",
+        "one_pan_sauce",
+        "plated"
+      ],
+      "components_from_title": [
+        "Potato Gnocchi",
+        "Roasted Butternut Squash",
+        "Spinach & Sweet Peas",
+        "Ricotta Sauce"
+      ],
+      "summary": "A dairy vegetarian dinner of pillowy potato gnocchi tossed in a light ricotta-garlic sauce with roasted butternut squash, wilted spinach and sweet peas. 35–40 minutes total, 20–25 minutes active; kid-friendly components can be served separately.",
+      "ingredients": [
+        "2 lb kosher-certified potato gnocchi (check dairy status and ingredients)",
+        "2 cups peeled butternut squash, diced into ½-inch cubes",
+        "1½ cups frozen peas",
+        "3 cups baby spinach, roughly chopped",
+        "1 cup kosher-certified ricotta cheese",
+        "½ cup milk or unsalted vegetable broth, plus a splash if needed",
+        "2 cloves garlic, minced",
+        "2 tbsp olive oil, divided",
+        "½ tsp dried sage or thyme",
+        "1 tsp lemon zest and 1 tsp lemon juice (optional)",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "Heat oven to 425°F. Toss ½-inch squash cubes with 1 tbsp olive oil and a pinch of salt. Spread on a sheet pan and roast 20–25 minutes until tender, turning once.",
+        "Bring a large pot of salted water to a boil. When the squash has about 10 minutes left, cook gnocchi according to package instructions (usually 2–4 minutes, until they float); reserve ½ cup cooking water and drain.",
+        "While gnocchi cooks, warm 1 tbsp olive oil in a large skillet over medium-low heat. Cook minced garlic 30–60 seconds without browning. Add peas and ¼ cup water; cover and heat for 3 minutes.",
+        "Turn heat to low. Stir in ricotta and ½ cup milk or vegetable broth until a loose sauce forms. Add spinach and stir until wilted, about 1–2 minutes. Thin with reserved gnocchi water as needed; season with sage or thyme, salt and pepper.",
+        "Fold in gnocchi and roasted squash gently. Finish with optional lemon zest and a few drops of lemon juice. Serve warm."
+      ],
+      "estimated_total_minutes": 40,
+      "estimated_active_minutes": 25,
+      "child_friendly_modifications": "Reserve plain gnocchi before saucing and serve with a small spoonful of ricotta for dipping. Offer sweet peas and soft roasted squash in separate piles; chop spinach finely or keep it in the adult sauce. Cut large gnocchi pieces in half for the 3-year-old.",
+      "leftovers": "Refrigerate promptly within 2 hours; eat within 3–4 days. Reheat gently in a skillet with a splash of milk or water to loosen the sauce. Pack separate roasted squash and peas for easy lunches."
+    },
+    {
+      "number": 85,
+      "title": "Crispy Salmon & Sweet Corn Cakes with Roasted Broccoli & Lemon Couscous",
+      "slug": "085-crispy-salmon-sweet-corn-cakes-with-roasted-broccoli-lemon-couscous",
+      "kosher_category": "fish_pareve",
+      "primary_category": "fish",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "fish_cakes",
+        "sheet_pan_vegetables",
+        "plated",
+        "kid_friendly"
+      ],
+      "components_from_title": [
+        "Salmon & Sweet Corn Cakes",
+        "Roasted Broccoli",
+        "Lemon Couscous"
+      ],
+      "summary": "Golden pan-seared salmon-and-corn patties made with boneless canned salmon, served with oven-roasted broccoli and quick lemon couscous. Dairy-free, 35–40 minutes total and about 25–30 minutes active.",
+      "ingredients": [
+        "4 cans (5 oz each) kosher-certified boneless, skinless salmon, drained",
+        "3/4 cup sweet corn kernels, thawed if frozen",
+        "2 large eggs",
+        "1/2 cup kosher-certified pareve panko breadcrumbs, plus 1–2 tbsp if needed",
+        "2 tbsp kosher-certified pareve mayonnaise",
+        "1 tsp Dijon mustard",
+        "2 scallions, finely sliced (optional)",
+        "1 lemon, zest and juice divided",
+        "1/2 tsp garlic powder",
+        "3 tbsp olive oil, divided",
+        "1 1/2 lb broccoli florets",
+        "1 1/4 cups dry couscous",
+        "1 1/4 cups water or kosher-certified pareve vegetable broth (or follow package directions)",
+        "2 tbsp chopped parsley (optional)",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Preheat oven to 425°F. Toss broccoli florets with 1 tbsp olive oil, salt and pepper; spread on a baking sheet and roast 18–22 minutes, turning once.",
+        "While broccoli roasts, drain salmon well. In a bowl, gently mix salmon, corn, eggs, panko, pareve mayonnaise, Dijon, scallions if using, half the lemon zest, garlic powder and a pinch of pepper. Shape into 10–12 small patties. If loose, add 1–2 tbsp more panko and press firmly.",
+        "Heat 2 tbsp olive oil in a large nonstick skillet over medium heat. Cook patties in two batches, about 3–4 minutes per side, until browned, firm and hot through; aim for 160°F in the center because they contain egg. Avoid flipping before a crust forms.",
+        "Meanwhile bring 1 1/4 cups water or pareve broth to a boil. Stir in couscous, cover, remove from heat and rest 5 minutes (or follow package instructions). Fluff and add remaining lemon zest, 1–2 tbsp lemon juice, parsley if using and salt to taste.",
+        "Serve 2–3 salmon cakes per adult with broccoli and couscous. Offer lemon wedges or a little pareve mayonnaise for dipping."
+      ],
+      "estimated_total_minutes": 40,
+      "estimated_active_minutes": 28,
+      "child_friendly_modifications": "Make a few nugget-sized cakes with finely chopped corn and no scallions; offer ketchup or pareve mayonnaise for dipping. Serve couscous plain and broccoli in small, tender florets. For the 3-year-old, break cakes into bite-size pieces and check for any remaining bones even with boneless canned salmon. Avoid whole hard corn kernels if the child has difficulty chewing them.",
+      "leftovers": "Refrigerate promptly within 2 hours. Eat refrigerated cakes within 3–4 days, reheating in a 375°F oven or air fryer until hot throughout. Flake leftover cakes into a pareve pita with cucumber and lemon dressing for lunch; store couscous and broccoli separately for best texture."
+    },
+    {
+      "number": 86,
+      "title": "Dairy-Free Chicken Pot Pie Skillet with Olive-Oil Drop Biscuits",
+      "slug": "086-dairy-free-chicken-pot-pie-skillet-with-olive-oil-drop-biscuits",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "one_pan",
+        "baked",
+        "comfort_food",
+        "kid_friendly"
+      ],
+      "components_from_title": [
+        "Chicken and mixed-vegetable filling",
+        "Olive-oil drop biscuits"
+      ],
+      "summary": "A dairy-free chicken pot pie baked in a skillet with a creamy broth-based filling of chicken, peas, carrots, corn and green beans, topped with homemade olive-oil drop biscuits. Approximately 45 minutes total, 30–35 minutes active.",
+      "ingredients": [
+        "1 1/2 lb kosher boneless skinless chicken breast or thighs, cut into 3/4-inch cubes",
+        "1 small onion, finely diced",
+        "2 celery stalks, diced",
+        "2 cloves garlic, minced",
+        "2 cups frozen mixed vegetables (peas, carrots, corn and/or green beans)",
+        "2 tbsp olive oil for filling",
+        "3 tbsp all-purpose flour for thickening filling",
+        "2 cups kosher-certified dairy-free chicken broth",
+        "1 tsp dried thyme",
+        "1/2 tsp paprika (optional)",
+        "Salt and black pepper",
+        "1 1/2 cups all-purpose flour for biscuits",
+        "2 tsp baking powder",
+        "1/2 tsp salt for biscuits",
+        "1/4 cup olive oil or neutral oil for biscuits",
+        "2/3 cup cold water for biscuits (add 1–2 tbsp more if needed)"
+      ],
+      "instructions": [
+        "Heat oven to 425°F. Use a 10–12-inch oven-safe skillet, or prepare a medium baking dish for transferring the filling.",
+        "Heat 2 tbsp olive oil over medium heat. Cook diced onion and celery 4–5 minutes, then add garlic and chicken cubes; cook 4–5 minutes more, stirring, until the outside of the chicken turns opaque.",
+        "Sprinkle 3 tbsp flour over the filling and stir for 1 minute. Gradually stir in 2 cups dairy-free chicken broth, scraping the pan. Add frozen vegetables, thyme, paprika if using, salt and pepper. Simmer 3–5 minutes until lightly thickened. The chicken will finish cooking in the oven.",
+        "In a separate bowl, whisk 1 1/2 cups flour, baking powder and 1/2 tsp salt. Stir in 1/4 cup oil and 2/3 cup cold water just until a shaggy, scoopable dough forms; do not overmix. Add a little extra water only if needed.",
+        "If the skillet is not oven-safe, transfer filling to a baking dish. Spoon 8–10 small mounds of biscuit dough over the hot filling, leaving gaps for steam. Bake uncovered 18–22 minutes, until biscuits are golden and cooked through and chicken reaches 165°F in the thickest pieces. Rest 5 minutes before serving."
+      ],
+      "estimated_total_minutes": 45,
+      "estimated_active_minutes": 33,
+      "child_friendly_modifications": "For the 5- and 3-year-old, serve the biscuit and filling side by side instead of mixed. Cut chicken into small bite-size pieces, offer the softer peas and carrots first, and let the filling cool before serving; it stays very hot under the biscuits. For a picky eater, reserve a little plain cooked chicken and vegetables before thickening the sauce, and serve with a biscuit.",
+      "leftovers": "Cool promptly and refrigerate within 2 hours; use within 3–4 days. Reheat in a covered 350°F oven until the center is 165°F, uncovering briefly to re-crisp biscuits. For lunch, spoon leftover filling over toast or rice, keeping the bread dairy-free/pareve."
+    },
+    {
+      "number": 87,
+      "title": "Cheesy Polenta Bowls with Tomato-Basil White Beans, Spinach & Roasted Zucchini",
+      "slug": "087-cheesy-polenta-bowls-with-tomato-basil-white-beans-spinach-roasted-zucchini",
+      "kosher_category": "dairy",
+      "primary_category": "dairy_vegetarian",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "bowls",
+        "stovetop",
+        "oven",
+        "vegetarian",
+        "kid_friendly"
+      ],
+      "components_from_title": [
+        "Creamy mozzarella polenta",
+        "Tomato-basil white beans with spinach",
+        "Roasted zucchini"
+      ],
+      "summary": "Creamy quick-cooking polenta with mozzarella, topped with tomato-basil white beans and spinach, alongside roasted zucchini. A balanced, meat-free dairy dinner in about 35 minutes (25 minutes active).",
+      "ingredients": [
+        "1 cup quick-cooking polenta (not traditional long-cooking cornmeal)",
+        "3 cups water",
+        "1 cup milk",
+        "1 cup shredded kosher-certified mozzarella",
+        "2 cans (15 oz each) cannellini beans, drained and rinsed",
+        "1 pint cherry tomatoes, halved",
+        "3 cups baby spinach, roughly chopped",
+        "2 medium zucchini, sliced into half-moons",
+        "1 small yellow onion, finely diced",
+        "2 garlic cloves, minced",
+        "3 tbsp olive oil, divided",
+        "1/2 tsp dried oregano",
+        "1/2 tsp dried basil (or 2 tbsp fresh basil)",
+        "1 tbsp lemon juice (optional)",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "Preheat oven to 425°F. Toss zucchini half-moons with 1 tbsp olive oil, salt and pepper on a baking sheet. Roast 18–22 minutes, turning once, until tender and lightly browned.",
+        "Meanwhile heat 1 tbsp olive oil in a large skillet over medium heat. Add onion and cook 3–4 minutes. Stir in garlic for 30 seconds, then add halved cherry tomatoes, oregano, basil and a pinch of salt. Cook 6–8 minutes, stirring occasionally, until tomatoes soften and release juices. Add 2–3 tbsp water if dry.",
+        "Stir drained white beans into tomato skillet and warm for 3–4 minutes. Add chopped spinach and stir 1–2 minutes until wilted. Finish with optional lemon juice; keep warm on low.",
+        "In a saucepan bring 3 cups water and 1 cup milk to a gentle boil. Whisk in 1 cup quick-cooking polenta gradually, reduce heat to low and cook according to package directions (usually 3–5 minutes), stirring often. Remove from heat and stir in mozzarella and salt. Add a splash of water if too thick.",
+        "Spoon polenta into bowls. Top adults’ portions with white beans, tomato and spinach. Serve roasted zucchini alongside. For kids, offer components separately."
+      ],
+      "estimated_total_minutes": 35,
+      "estimated_active_minutes": 25,
+      "child_friendly_modifications": "Serve a small bowl of cheesy polenta with plain warmed white beans on the side, a few sweet roasted zucchini pieces, and tomato sauce as an optional topping. For the 3-year-old, mash or flatten beans if needed and cut zucchini into soft bite-sized pieces. Allow hot polenta to cool before serving.",
+      "leftovers": "Cool and refrigerate within 2 hours. Store polenta separately from beans and vegetables for up to 3–4 days. Reheat polenta with a splash of water or milk over low heat, stirring until creamy; warm the bean mixture thoroughly. Alternatively, chill leftover polenta in a shallow dish, cut into squares and pan-sear for lunch with leftover beans."
+    },
+    {
+      "number": 88,
+      "title": "Lemon-Caper Chicken Piccata with Whole-Wheat Spaghetti & Roasted Broccolini",
+      "slug": "088-lemon-caper-chicken-piccata-with-whole-wheat-spaghetti-roasted-broccolini",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "stovetop",
+        "oven",
+        "pasta",
+        "kid_friendly"
+      ],
+      "components_from_title": [
+        "Olive-oil lemon-caper chicken",
+        "Whole-wheat spaghetti",
+        "Roasted broccolini"
+      ],
+      "summary": "Tender pan-seared chicken cutlets in a bright lemon-caper broth sauce (no butter or dairy), served with whole-wheat spaghetti and roasted broccolini. 35–40 minutes total, 25–30 minutes active.",
+      "ingredients": [
+        "1 3/4 lb kosher boneless skinless chicken breasts, sliced horizontally into thin cutlets",
+        "1/3 cup all-purpose flour for a light dusting",
+        "3 tbsp olive oil, divided, plus a little extra if needed",
+        "1 cup kosher-certified dairy-free chicken broth",
+        "1 large lemon (2–3 tbsp juice plus optional zest)",
+        "1 1/2 tbsp capers, drained and rinsed (optional for children)",
+        "2 tbsp chopped fresh parsley (optional)",
+        "12 oz whole-wheat spaghetti or linguine, kosher-certified pareve",
+        "1 lb broccolini (or broccoli florets)",
+        "2 garlic cloves, minced",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "Preheat oven to 425°F. Toss broccolini with 1 tbsp olive oil, salt and pepper. Spread on a baking sheet and roast 12–15 minutes, turning once; broccoli florets may need 18–20 minutes.",
+        "Bring a large pot of water to a boil. Cook whole-wheat spaghetti according to package directions; reserve 1/2 cup pasta water before draining.",
+        "Pat chicken dry, pound or slice to roughly 1/2-inch thickness, season lightly, and dust with flour. Heat 2 tbsp olive oil in a large skillet over medium-high heat. Cook in batches about 3–4 minutes per side, until golden and chicken reaches 165°F internally. Transfer to a plate.",
+        "Reduce heat to medium. Add garlic to the skillet and stir for 20–30 seconds. Pour in broth and scrape browned bits from pan. Add lemon juice and capers, simmer 2–3 minutes to reduce slightly. Return chicken and any juices to pan for 1 minute to coat. Add parsley if using.",
+        "Serve chicken with spaghetti and roasted broccolini; spoon lemon broth sauce over chicken and pasta. If desired, loosen pasta with reserved water and a drizzle of olive oil. No Parmesan, butter, or cream."
+      ],
+      "estimated_total_minutes": 40,
+      "estimated_active_minutes": 30,
+      "child_friendly_modifications": "Set aside a couple of chicken cutlets before adding capers and lemon sauce. Slice into strips and serve with plain spaghetti and soft roasted broccolini florets; offer a small cup of lemon sauce to try as a dip. Cut spaghetti shorter and chicken into bite-size pieces for the 3-year-old.",
+      "leftovers": "Refrigerate chicken, pasta and broccolini within 2 hours, ideally in separate containers. Eat within 3–4 days. Reheat chicken gently with a splash of broth until 165°F, and serve in a pareve pita or over reheated pasta with leftover vegetables."
+    },
+    {
+      "number": 89,
+      "title": "Shabbat Chicken Cacciatore with Bell Peppers, Mushrooms & Herbed Orzo",
+      "slug": "089-shabbat-chicken-cacciatore-with-bell-peppers-mushrooms-herbed-orzo",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": true,
+      "meal_formats": [
+        "braised",
+        "stovetop",
+        "shabbat",
+        "make_ahead",
+        "pasta",
+        "kid_friendly"
+      ],
+      "components_from_title": [
+        "Tomato-braised chicken thighs with peppers and mushrooms",
+        "Herbed pareve orzo"
+      ],
+      "summary": "Tender boneless chicken thighs braised in a tomato, sweet pepper, mushroom and garlic sauce, served over pareve herbed orzo. Cook fully ahead of Shabbat; the saucy chicken stays moist on an approved warming setup. 45 minutes total, 30 minutes active.",
+      "ingredients": [
+        "2 lb kosher boneless skinless chicken thighs",
+        "1 medium yellow onion, thinly sliced",
+        "1 red bell pepper and 1 yellow bell pepper, thinly sliced",
+        "8 oz cremini mushrooms, sliced",
+        "3 garlic cloves, minced",
+        "1 can (14–15 oz) kosher-certified crushed tomatoes",
+        "1/2 cup kosher-certified dairy-free chicken broth or water",
+        "2 tbsp olive oil for chicken and vegetables",
+        "1 tsp dried oregano and 1/2 tsp dried basil",
+        "1/2 tsp sweet paprika",
+        "12 oz kosher-certified pareve orzo",
+        "1 tbsp olive oil for orzo",
+        "1 tbsp chopped fresh parsley, optional",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "Season chicken with salt, pepper and paprika. Heat 1 tbsp olive oil in a large deep skillet over medium-high heat. Brown chicken in batches for 2–3 minutes per side, then transfer to a plate; it will finish cooking in the sauce.",
+        "Add remaining 1 tbsp olive oil, onion, sliced peppers and mushrooms to the skillet. Cook 7–8 minutes until softened. Add garlic, oregano and basil; cook 30 seconds.",
+        "Add crushed tomatoes and 1/2 cup broth or water; scrape up browned bits. Return chicken and juices. Cover and simmer gently 15–20 minutes, until the thickest chicken piece reaches 165°F. Uncover for a few minutes if the sauce needs thickening.",
+        "While chicken simmers, boil orzo in salted water according to package directions (usually 8–10 minutes). Drain and toss with 1 tbsp olive oil and optional parsley. Keep the orzo separate from the chicken sauce until serving.",
+        "Serve the chicken and vegetables with generous spoonfuls of sauce over or beside the orzo. For Shabbat, cook completely before Shabbat, cool/refrigerate promptly if made in advance, and reheat thoroughly before placing on a warming setup that follows your halachic practice. Keep hot foods at or above 140°F for food safety."
+      ],
+      "estimated_total_minutes": 45,
+      "estimated_active_minutes": 30,
+      "child_friendly_modifications": "Before adding the cooked chicken back to the tomato sauce, reserve one or two pieces to finish cooking separately in a covered pan with a splash of broth to 165°F. Cut into small bites and serve with plain orzo and a few soft sweet pepper strips. Offer tomato sauce separately for dipping. Chop mushrooms finely if the children dislike their texture.",
+      "leftovers": "Refrigerate chicken and orzo separately within 2 hours of cooking and use within 3–4 days. Reheat chicken in sauce to 165°F. Shred leftover chicken into a pareve pita with cucumber for Sunday lunch, or serve over rice. For Shabbat, if cooking the day before, chill promptly and reheat thoroughly before Shabbat; use only your customary compliant warming arrangement."
+    },
+    {
+      "number": 90,
+      "title": "Spinach-Feta Breakfast Tacos with Roasted Sweet Potato-Pepper Hash & Cucumber Sticks",
+      "slug": "090-spinach-feta-breakfast-tacos-with-roasted-sweet-potato-pepper-hash-cucumber-sticks",
+      "kosher_category": "dairy",
+      "primary_category": "eggs",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "breakfast_for_dinner",
+        "tacos",
+        "vegetarian",
+        "sheet_pan",
+        "stovetop",
+        "kid_friendly"
+      ],
+      "components_from_title": [
+        "Spinach-feta scrambled eggs in warm corn or flour tortillas",
+        "Roasted sweet potato and red pepper hash",
+        "Cucumber sticks"
+      ],
+      "summary": "Breakfast-for-dinner tacos with soft scrambled eggs, wilted spinach, and feta, paired with crispy oven-roasted sweet potato and red pepper hash and cool cucumber sticks. Fully meat-free dairy dinner. About 35–40 minutes total and 25–30 minutes active.",
+      "ingredients": [
+        "10 large eggs",
+        "3 cups baby spinach, washed and checked as appropriate",
+        "4 oz kosher-certified feta, crumbled",
+        "8–10 small kosher-certified pareve corn or flour tortillas",
+        "2 medium sweet potatoes (about 1½ lb), cut into ½-inch cubes",
+        "1 red bell pepper, diced",
+        "1 medium cucumber, cut into sticks",
+        "2½ tbsp olive oil, divided",
+        "½ tsp smoked or sweet paprika",
+        "¼ tsp ground cumin (optional)",
+        "2 tbsp water",
+        "Salt and pepper",
+        "Optional: 1 avocado, sliced, and lime wedges"
+      ],
+      "instructions": [
+        "Heat oven to 425°F. Dice sweet potatoes into ½-inch cubes and red pepper into similar-size pieces. Toss with 1½ tbsp olive oil, paprika, cumin if using, and a little salt. Spread on a large baking sheet without crowding; roast 22–27 minutes, turning once, until sweet potatoes are fork-tender and browned at the edges.",
+        "While vegetables roast, cut cucumber into sticks. Whisk eggs with 2 tbsp water and a pinch of salt and pepper. Crumble feta.",
+        "Heat 1 tbsp olive oil in a large nonstick skillet over medium-low heat. Add spinach and stir 1–2 minutes until wilted. Pour in beaten eggs; stir gently for 4–6 minutes until softly set but fully cooked. Remove from heat and fold in feta; taste before adding more salt.",
+        "Warm tortillas in a dry skillet, about 20–30 seconds per side, or wrap in foil and warm in the oven briefly. Fill with egg mixture and serve with roasted sweet potato-pepper hash and cucumber sticks. Optional avocado or lime for adults."
+      ],
+      "estimated_total_minutes": 40,
+      "estimated_active_minutes": 28,
+      "child_friendly_modifications": "Offer plain scrambled eggs with a little feta on the side, a warm tortilla for rolling or dipping, sweet potato cubes without paprika, and peeled cucumber sticks. Chop spinach very finely or reserve some eggs before adding spinach. For the 3-year-old, serve bite-size pieces and avoid overfilling tacos. Let kids assemble their own tacos.",
+      "leftovers": "Refrigerate within 2 hours; use cooked egg mixture and hash within 3–4 days. Reheat eggs until steaming hot and hash in a skillet or 375°F oven until hot; tortillas and cucumber are best kept separate. For next-day lunch, use extra hash in a quesadilla with kosher-certified cheese (dairy) or top with a freshly cooked egg."
+    },
+    {
+      "number": 91,
+      "title": "Spanish-Style Chicken & Rice Skillet with Sweet Peppers and Peas",
+      "slug": "091-spanish-style-chicken-rice-skillet-with-sweet-peppers-and-peas",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "one_pan",
+        "rice_skillet",
+        "spanish_inspired",
+        "kid_friendly"
+      ],
+      "components_from_title": [
+        "Paprika chicken",
+        "Tomato-scented rice",
+        "Sweet bell peppers",
+        "Peas"
+      ],
+      "summary": "A mild, paella-inspired one-skillet meal with kosher chicken thighs, rice, sweet bell peppers, and peas. Entirely dairy-free, with 45 minutes total and about 25–30 minutes active.",
+      "ingredients": [
+        "1 1/2 lb kosher boneless, skinless chicken thighs, cut into 1-inch pieces",
+        "1 1/2 cups short-grain white rice (not instant), rinsed and drained",
+        "1 red bell pepper, diced",
+        "1 yellow bell pepper, diced",
+        "1 small onion, diced",
+        "3 garlic cloves, minced",
+        "1 cup frozen peas",
+        "1 cup canned crushed tomatoes",
+        "2 1/2 cups kosher-certified pareve chicken broth (add a little more if rice needs it)",
+        "2 tbsp olive oil",
+        "1 tsp sweet paprika",
+        "1/2 tsp smoked paprika (optional)",
+        "1/4 tsp turmeric or a small pinch of saffron (optional)",
+        "1 lemon, cut into wedges",
+        "Salt and black pepper",
+        "Optional: chopped parsley"
+      ],
+      "instructions": [
+        "Cut chicken into 1-inch pieces and season with salt, pepper, and half the sweet paprika. Heat 1 tbsp olive oil in a deep, lidded skillet over medium-high heat; brown chicken 4–5 minutes, stirring, then transfer to a plate. It will finish cooking with the rice.",
+        "Add remaining olive oil, onion, and bell peppers. Cook 4–5 minutes until starting to soften. Stir in garlic, remaining paprika, optional smoked paprika and turmeric/saffron for 30 seconds.",
+        "Stir in rice to coat, then add crushed tomatoes and broth. Bring to a simmer, nestle chicken and its juices into the rice, cover and cook over low heat for 18–22 minutes without frequent stirring. Check near the end; add a splash of hot broth or water if the rice is dry before tender.",
+        "Scatter peas over the rice, cover and cook 3–5 minutes more, until peas are hot, rice is tender, and the chicken reaches 165°F in its thickest pieces.",
+        "Rest covered off heat for 5 minutes. Fluff lightly, finish with parsley if using, and serve with lemon wedges."
+      ],
+      "estimated_total_minutes": 45,
+      "estimated_active_minutes": 28,
+      "child_friendly_modifications": "Keep the paprika mild and omit smoked paprika if sensitive. Set aside a little rice and chicken before squeezing on lemon. Serve chicken cut into small pieces, with peas and tender pepper strips separated; mash peas if needed for the younger child. Avoid large hot bites and let rice cool before serving.",
+      "leftovers": "Cool rice and chicken promptly in shallow containers and refrigerate within 2 hours. Eat within 3–4 days, reheating until steaming hot/165°F. Reheat with a splash of water in a covered skillet. Leftovers can become a warm rice bowl with diced cucumber and lemon."
+    },
+    {
+      "number": 92,
+      "title": "Coconut-Lime Cod Chowder with Sweet Corn, Baby Potatoes & Spinach",
+      "slug": "092-coconut-lime-cod-chowder-with-sweet-corn-baby-potatoes-spinach",
+      "kosher_category": "fish_pareve",
+      "primary_category": "fish",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "one_pot",
+        "soup",
+        "chowder",
+        "kid_friendly"
+      ],
+      "components_from_title": [
+        "Cod or haddock",
+        "Light coconut milk broth",
+        "Sweet corn",
+        "Baby potatoes",
+        "Spinach"
+      ],
+      "summary": "Mild, dairy-free fish chowder with tender cod, sweet corn, potatoes, spinach, and a little lime. About 40 minutes total, 20–25 minutes active.",
+      "ingredients": [
+        "1 1/2 lb kosher cod or haddock fillets, skinless and boneless, cut into 1 1/2-inch pieces",
+        "1 1/4 lb baby Yukon Gold potatoes, cut into 1/2-inch pieces",
+        "1 small yellow onion, diced",
+        "2 celery stalks, diced",
+        "1 red bell pepper, diced",
+        "2 cloves garlic, minced",
+        "2 cups frozen sweet corn",
+        "2 cups baby spinach, washed and checked as appropriate",
+        "3 cups kosher-certified pareve vegetable broth",
+        "1 can (13.5 oz) unsweetened light coconut milk",
+        "1 tbsp olive oil",
+        "1/2 tsp sweet paprika",
+        "1 lime (juice to taste)",
+        "Salt and black pepper",
+        "Optional: chopped cilantro or parsley, and pareve crusty bread for dipping"
+      ],
+      "instructions": [
+        "In a large pot, heat olive oil over medium heat. Add onion, celery, and bell pepper; sauté for 5–6 minutes until beginning to soften. Add garlic and paprika for 30 seconds.",
+        "Add diced potatoes, vegetable broth, and light coconut milk. Bring to a simmer, cover partially, and cook for 12–15 minutes until potatoes are almost fork-tender.",
+        "Add corn and fish pieces. Keep at a gentle simmer for 5–7 minutes, without vigorous stirring, until fish is opaque, flakes easily, and reaches 145°F in the thickest piece.",
+        "Stir in spinach for 1–2 minutes until wilted. Season with salt and pepper. Add 1–2 tsp lime juice to the pot, offering more at the table.",
+        "Serve in bowls, with optional pareve crusty bread. For children, lift out pieces of fish, potatoes, and corn and serve separately with a little broth."
+      ],
+      "estimated_total_minutes": 40,
+      "estimated_active_minutes": 23,
+      "child_friendly_modifications": "Keep the lime subtle and omit any spicy seasoning. Serve tender fish flakes, soft potato pieces, and sweet corn in separate sections if preferred. Carefully check fish for bones, break into small pieces, and cool broth thoroughly. For children who prefer dipping, offer pareve toast alongside.",
+      "leftovers": "Cool promptly in shallow containers and refrigerate within 2 hours. Use within 1–2 days for best fish texture; reheat gently to 165°F without boiling hard, which can toughen the fish. Add a splash of broth when reheating. Do not leave at room temperature."
+    },
+    {
+      "number": 93,
+      "title": "Sweet Potato & Black Bean Enchiladas with Spinach, Melted Cheese & Lime-Cabbage Slaw",
+      "slug": "093-sweet-potato-black-bean-enchiladas-with-spinach-melted-cheese-lime-cabbage-slaw",
+      "kosher_category": "dairy",
+      "primary_category": "vegetarian_dairy",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "enchiladas",
+        "baked",
+        "mexican_inspired",
+        "kid_friendly"
+      ],
+      "components_from_title": [
+        "Sweet potato and black bean filling",
+        "Spinach",
+        "Cheese",
+        "Mild red enchilada sauce",
+        "Lime-cabbage slaw"
+      ],
+      "summary": "Baked enchiladas with tender sweet potato, black beans, spinach and kosher cheese, plus a bright crunchy cabbage slaw. 40–45 minutes total, 25–30 minutes active.",
+      "ingredients": [
+        "2 medium sweet potatoes (about 1 lb), peeled and cut into 1/2-inch cubes",
+        "1 can (15 oz) black beans, drained and rinsed",
+        "2 packed cups baby spinach, washed and checked as appropriate",
+        "1 small onion, finely diced",
+        "1 tbsp olive oil",
+        "1/2 tsp ground cumin",
+        "1/2 tsp sweet paprika",
+        "8 small kosher-certified corn or flour tortillas",
+        "1 3/4 cups mild kosher-certified pareve red enchilada sauce",
+        "1 1/4 cups shredded kosher-certified cheddar or Monterey Jack cheese",
+        "2 cups shredded green or purple cabbage, checked as appropriate",
+        "1 small cucumber, diced",
+        "1 lime, juiced",
+        "1 tbsp olive oil for slaw",
+        "Salt and pepper",
+        "Optional: sliced avocado or cilantro"
+      ],
+      "instructions": [
+        "Preheat oven to 425°F. Boil diced sweet potatoes in lightly salted water for 8–10 minutes until just fork-tender; drain well.",
+        "While potatoes boil, heat 1 tbsp olive oil in a skillet. Sauté onion 3–4 minutes. Add cumin and paprika, then spinach and cook until wilted, about 1 minute. Fold in drained sweet potatoes and black beans; lightly mash a few cubes so the filling holds together.",
+        "Spread 1/2 cup mild enchilada sauce in a 9x13-inch baking dish. Fill each tortilla with about 1/3 cup filling and a pinch of cheese, roll, and arrange seam-side down. Pour remaining 1 1/4 cups sauce over the rolls and scatter the remaining cheese on top.",
+        "Bake uncovered for 14–17 minutes until filling is hot and cheese is melted and lightly bubbling. If using thick refrigerated sauce or cold filling, allow additional minutes until heated throughout.",
+        "While enchiladas bake, toss shredded cabbage and diced cucumber with lime juice, 1 tbsp olive oil, and a pinch of salt. Serve slaw on the side with optional avocado."
+      ],
+      "estimated_total_minutes": 45,
+      "estimated_active_minutes": 28,
+      "child_friendly_modifications": "Use mild enchilada sauce and reserve 1–2 tortillas with very little sauce. Mash the sweet potato and beans slightly for a softer filling; cut enchiladas into bite-size pieces and serve slaw components separately. For a child who dislikes spinach, chop it finely or reserve some filling before adding it. Let melted cheese cool before serving.",
+      "leftovers": "Refrigerate within 2 hours in shallow containers and eat within 3–4 days. Reheat covered in a 350°F oven or microwave until steaming hot (165°F). Store slaw separately and eat within 1–2 days for best crunch. Leftover filling can go into a warm cheese quesadilla for lunch."
+    },
+    {
+      "number": 94,
+      "title": "Ginger-Lime Chicken Rice Noodle Salad with Crunchy Vegetables",
+      "slug": "094-ginger-lime-chicken-rice-noodle-salad-with-crunchy-vegetables",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": false,
+      "meal_formats": [
+        "rice_noodle_salad",
+        "bowls",
+        "asian_inspired",
+        "kid_friendly"
+      ],
+      "components_from_title": [
+        "Ginger-lime chicken",
+        "Rice vermicelli noodles",
+        "Cucumber",
+        "Carrot",
+        "Red cabbage",
+        "Sesame-lime dressing"
+      ],
+      "summary": "Tender ginger-lime chicken over rice noodles with cucumber, carrot, and cabbage, tossed in a light soy-sesame-lime dressing. A cool, crunchy dairy-free dinner; 35–40 minutes total and 25–30 minutes active.",
+      "ingredients": [
+        "1 1/2 lb kosher boneless, skinless chicken breast or thighs",
+        "8 oz dry rice vermicelli noodles (kosher-certified pareve)",
+        "1 large cucumber, cut into thin matchsticks",
+        "2 medium carrots, grated or cut into matchsticks",
+        "2 cups finely shredded red or green cabbage, checked as appropriate",
+        "2 scallions, thinly sliced (optional)",
+        "2 tbsp neutral oil for cooking",
+        "3 tbsp fresh lime juice (about 2 limes), plus wedges to serve",
+        "2 tbsp kosher-certified pareve soy sauce or tamari",
+        "1 tbsp toasted sesame oil",
+        "1 tbsp honey or maple syrup",
+        "1 tsp freshly grated ginger",
+        "1 small garlic clove, finely grated",
+        "2 tbsp water to thin dressing",
+        "Salt and pepper",
+        "Optional: fresh mint or cilantro, checked as appropriate"
+      ],
+      "instructions": [
+        "Whisk lime juice, soy sauce or tamari, toasted sesame oil, honey or maple syrup, grated ginger, garlic, and water. Set aside 2 tbsp for brushing the cooked chicken; keep the rest for dressing the noodles and vegetables. Do not reuse dressing that touched raw chicken.",
+        "Slice chicken breasts horizontally into thin cutlets if thick; season lightly with salt and pepper. Heat neutral oil in a large skillet over medium-high heat. Cook chicken about 4–6 minutes per side depending on thickness until 165°F in the thickest part. Rest 5 minutes, then slice thinly and toss with the reserved clean dressing.",
+        "While chicken cooks, prepare rice vermicelli according to the package (typically soak in hot water 4–6 minutes or boil briefly). Drain and rinse under cool water to stop cooking; shake dry.",
+        "Cut cucumber into matchsticks, grate carrots, and shred cabbage finely. Toss noodles with most of the remaining dressing, then add the vegetables and mix gently.",
+        "Divide noodles and vegetables among bowls, top with warm chicken, and garnish with optional scallions/herbs and lime wedges. Serve dressing separately for the kids if preferred."
+      ],
+      "estimated_total_minutes": 40,
+      "estimated_active_minutes": 28,
+      "child_friendly_modifications": "Reserve plain chicken and noodles before dressing. Serve cucumber sticks, grated carrot, and a little finely shredded cabbage separately; cut long noodles into short lengths for the 3-year-old. Use a small amount of lime dressing as a dip. Omit scallions and herbs for children who prefer mild flavors.",
+      "leftovers": "Refrigerate chicken and noodles/vegetables separately within 2 hours. Use cooked chicken within 3–4 days and dressed noodles/vegetables preferably within 1–2 days for texture. Reheat chicken to 165°F, or serve cold only if previously cooled promptly and stored safely; refresh noodles with a squeeze of lime. Pack as a cold lunch with an ice pack."
+    },
+    {
+      "number": 95,
+      "title": "Shabbat Chicken Marbella with Prunes, Green Olives & Roasted Carrots over Lemon Couscous",
+      "slug": "095-shabbat-chicken-marbella-with-prunes-green-olives-roasted-carrots-over-lemon-couscous",
+      "kosher_category": "meat",
+      "primary_category": "chicken",
+      "shabbat_friendly": true,
+      "meal_formats": [
+        "shabbat_dinner",
+        "sheet_pan",
+        "mediterranean_inspired",
+        "make_ahead"
+      ],
+      "components_from_title": [
+        "Boneless chicken thighs",
+        "Prunes and green olives",
+        "Roasted carrots",
+        "Lemon-herb couscous"
+      ],
+      "summary": "Sweet-savory, dairy-free Chicken Marbella with prunes, green olives, capers and roasted carrots, served over quick lemon couscous. Make-ahead and suitable for Shabbat warming. 45 minutes total, about 25 minutes active.",
+      "ingredients": [
+        "2 lb kosher boneless, skinless chicken thighs",
+        "4 medium carrots, peeled and sliced into 1/2-inch diagonal pieces",
+        "1/2 cup pitted prunes, halved",
+        "1/2 cup pitted green olives, halved",
+        "1 tbsp capers, drained (optional)",
+        "3 garlic cloves, minced",
+        "2 tbsp olive oil",
+        "1/4 cup red wine vinegar, kosher-certified pareve",
+        "1 tbsp honey",
+        "1/3 cup kosher-certified pareve chicken broth or water",
+        "1 tsp dried oregano",
+        "1/2 tsp sweet paprika",
+        "Salt and black pepper",
+        "1 1/2 cups dry plain couscous, kosher-certified pareve",
+        "1 1/2 cups boiling water or pareve chicken broth for couscous (or amount specified on package)",
+        "1 lemon, zest and wedges",
+        "2 tbsp chopped fresh parsley, checked as appropriate (optional)"
+      ],
+      "instructions": [
+        "Preheat oven to 425°F. In a 9-by-13-inch baking dish or large ovenproof skillet, whisk olive oil, vinegar, honey, broth, minced garlic, oregano, paprika, a little salt, and pepper.",
+        "Add chicken and carrots; turn to coat and arrange in one layer. Scatter prunes, olives, and optional capers around the chicken. For a mild kid portion, keep a couple of thighs toward one side and avoid placing olives/capers directly on them.",
+        "Roast uncovered for 25–30 minutes, until carrots are fork-tender and the thickest chicken pieces register at least 165°F. If needed, continue a few minutes longer. Spoon pan juices over chicken before serving.",
+        "While the chicken roasts, put couscous in a heatproof bowl. Add boiling water or broth in the package-specified ratio (typically 1:1), cover 5 minutes, then fluff. Stir in lemon zest and parsley; serve lemon wedges separately.",
+        "For Friday Shabbat dinner, complete cooking and any reheating before Shabbat. Keep fully cooked chicken and carrots covered with their sauce in an appropriate prearranged warming setup that maintains at least 140°F; keep couscous covered and moist. Follow household halachic practice for warming and serving."
+      ],
+      "estimated_total_minutes": 45,
+      "estimated_active_minutes": 25,
+      "child_friendly_modifications": "Serve mild chicken strips from the less-briny part of the dish, plain couscous, and soft carrot coins separately. Omit olives/capers from the children’s plates if disliked. Cut prunes into small pieces if offered, check all olives are truly pitted, and let food cool to a safe eating temperature.",
+      "leftovers": "Cool promptly in shallow containers and refrigerate within 2 hours if not holding hot for Shabbat. Refrigerated leftovers keep 3–4 days. Reheat chicken and carrots covered with pan juices until 165°F; add a splash of water to re-fluff couscous. Shred extra chicken for a pareve pita with cucumber on Sunday."
+    }
+  ]
+}

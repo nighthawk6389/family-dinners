@@ -1,0 +1,22 @@
+{
+  "number": 57,
+  "title": "Chicken Fajita Rice Bowls with Peppers, Corn & Avocado",
+  "slug": "057-chicken-fajita-rice-bowls-with-peppers-corn-avocado",
+  "kosher_category": "meat",
+  "primary_category": "chicken",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "bowl"
+  ],
+  "components_from_title": [
+    "Chicken Fajita Rice Bowls",
+    "Peppers",
+    "Corn",
+    "Avocado"
+  ],
+  "summary": "Kosher meat dinner: Chicken Fajita Rice Bowls with Peppers, Corn & Avocado.",
+  "possible_related_or_duplicate_of": [
+    40
+  ],
+  "exact_title_duplicate_of": 40
+}

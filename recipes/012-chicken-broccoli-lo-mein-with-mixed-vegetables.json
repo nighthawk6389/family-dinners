@@ -1,0 +1,17 @@
+{
+  "number": 12,
+  "title": "Chicken & Broccoli Lo Mein with Mixed Vegetables",
+  "slug": "012-chicken-broccoli-lo-mein-with-mixed-vegetables",
+  "kosher_category": "meat",
+  "primary_category": "chicken",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "noodles"
+  ],
+  "components_from_title": [
+    "Chicken",
+    "Broccoli Lo Mein",
+    "Mixed Vegetables"
+  ],
+  "summary": "Kosher meat dinner: Chicken & Broccoli Lo Mein with Mixed Vegetables."
+}

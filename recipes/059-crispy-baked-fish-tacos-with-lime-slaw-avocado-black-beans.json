@@ -1,0 +1,21 @@
+{
+  "number": 59,
+  "title": "Crispy Baked Fish Tacos with Lime Slaw, Avocado & Black Beans",
+  "slug": "059-crispy-baked-fish-tacos-with-lime-slaw-avocado-black-beans",
+  "kosher_category": "fish_pareve",
+  "primary_category": "fish",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "tacos"
+  ],
+  "components_from_title": [
+    "Crispy Baked Fish Tacos",
+    "Lime Slaw",
+    "Avocado",
+    "Black Beans"
+  ],
+  "summary": "Kosher fish/pareve dinner: Crispy Baked Fish Tacos with Lime Slaw, Avocado & Black Beans.",
+  "possible_related_or_duplicate_of": [
+    39
+  ]
+}

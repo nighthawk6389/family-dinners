@@ -1,0 +1,17 @@
+{
+  "number": 42,
+  "title": "Turkey Sloppy Joes with Roasted Sweet-Potato Wedges & Cucumber Salad",
+  "slug": "042-turkey-sloppy-joes-with-roasted-sweet-potato-wedges-cucumber-salad",
+  "kosher_category": "meat",
+  "primary_category": "turkey",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "sandwiches"
+  ],
+  "components_from_title": [
+    "Turkey Sloppy Joes",
+    "Roasted Sweet-Potato Wedges",
+    "Cucumber Salad"
+  ],
+  "summary": "Kosher meat dinner: Turkey Sloppy Joes with Roasted Sweet-Potato Wedges & Cucumber Salad."
+}

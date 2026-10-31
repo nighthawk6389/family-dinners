@@ -1,0 +1,20 @@
+{
+  "number": 56,
+  "title": "Shabbat Apricot-Dijon Chicken with Sweet Potatoes & Green Beans",
+  "slug": "056-shabbat-apricot-dijon-chicken-with-sweet-potatoes-green-beans",
+  "kosher_category": "meat",
+  "primary_category": "chicken",
+  "shabbat_friendly": true,
+  "meal_formats": [
+    "plated"
+  ],
+  "components_from_title": [
+    "Shabbat Apricot-Dijon Chicken",
+    "Sweet Potatoes",
+    "Green Beans"
+  ],
+  "summary": "Kosher meat dinner: Shabbat Apricot-Dijon Chicken with Sweet Potatoes & Green Beans.",
+  "possible_related_or_duplicate_of": [
+    8
+  ]
+}

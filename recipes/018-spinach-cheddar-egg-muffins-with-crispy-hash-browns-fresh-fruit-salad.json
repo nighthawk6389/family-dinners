@@ -1,0 +1,18 @@
+{
+  "number": 18,
+  "title": "Spinach & Cheddar Egg Muffins with Crispy Hash Browns & Fresh Fruit Salad",
+  "slug": "018-spinach-cheddar-egg-muffins-with-crispy-hash-browns-fresh-fruit-salad",
+  "kosher_category": "dairy",
+  "primary_category": "dairy_breakfast",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "breakfast_for_dinner"
+  ],
+  "components_from_title": [
+    "Spinach",
+    "Cheddar Egg Muffins",
+    "Crispy Hash Browns",
+    "Fresh Fruit Salad"
+  ],
+  "summary": "Kosher dairy dinner: Spinach & Cheddar Egg Muffins with Crispy Hash Browns & Fresh Fruit Salad."
+}

@@ -1,0 +1,20 @@
+{
+  "number": 68,
+  "title": "Cheesy Spinach & White Bean Baked Ziti with Roasted Broccoli",
+  "slug": "068-cheesy-spinach-white-bean-baked-ziti-with-roasted-broccoli",
+  "kosher_category": "dairy",
+  "primary_category": "dairy_vegetarian",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "pasta_bake"
+  ],
+  "components_from_title": [
+    "Cheesy Spinach",
+    "White Bean Baked Ziti",
+    "Roasted Broccoli"
+  ],
+  "summary": "Kosher dairy dinner: Cheesy Spinach & White Bean Baked Ziti with Roasted Broccoli.",
+  "possible_related_or_duplicate_of": [
+    29
+  ]
+}

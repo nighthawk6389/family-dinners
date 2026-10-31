@@ -1,0 +1,22 @@
+{
+  "number": 67,
+  "title": "Sheet-Pan Shawarma Chicken Bowls with Roasted Cauliflower & Couscous",
+  "slug": "067-sheet-pan-shawarma-chicken-bowls-with-roasted-cauliflower-couscous",
+  "kosher_category": "meat",
+  "primary_category": "chicken",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "sheet_pan",
+    "bowl"
+  ],
+  "components_from_title": [
+    "Sheet-Pan Shawarma Chicken Bowls",
+    "Roasted Cauliflower",
+    "Couscous"
+  ],
+  "summary": "Kosher meat dinner: Sheet-Pan Shawarma Chicken Bowls with Roasted Cauliflower & Couscous.",
+  "possible_related_or_duplicate_of": [
+    6,
+    54
+  ]
+}

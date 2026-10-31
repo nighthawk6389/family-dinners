@@ -1,0 +1,21 @@
+{
+  "number": 61,
+  "title": "Sheet-Pan Honey-Garlic Chicken, Broccoli & Baby Potatoes",
+  "slug": "061-sheet-pan-honey-garlic-chicken-broccoli-baby-potatoes",
+  "kosher_category": "meat",
+  "primary_category": "chicken",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "sheet_pan"
+  ],
+  "components_from_title": [
+    "Sheet-Pan Honey-Garlic Chicken",
+    "Broccoli",
+    "Baby Potatoes"
+  ],
+  "summary": "Kosher meat dinner: Sheet-Pan Honey-Garlic Chicken, Broccoli & Baby Potatoes.",
+  "possible_related_or_duplicate_of": [
+    1,
+    41
+  ]
+}

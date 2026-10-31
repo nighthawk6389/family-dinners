@@ -1,0 +1,20 @@
+{
+  "number": 73,
+  "title": "Black Bean & Cheese Quesadillas with Corn-Avocado Salad",
+  "slug": "073-black-bean-cheese-quesadillas-with-corn-avocado-salad",
+  "kosher_category": "dairy",
+  "primary_category": "dairy_vegetarian",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "quesadillas"
+  ],
+  "components_from_title": [
+    "Black Bean",
+    "Cheese Quesadillas",
+    "Corn-Avocado Salad"
+  ],
+  "summary": "Kosher dairy dinner: Black Bean & Cheese Quesadillas with Corn-Avocado Salad.",
+  "possible_related_or_duplicate_of": [
+    55
+  ]
+}

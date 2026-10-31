@@ -1,0 +1,20 @@
+{
+  "number": 58,
+  "title": "Teriyaki Chicken Meatballs with Rice & Roasted Green Beans",
+  "slug": "058-teriyaki-chicken-meatballs-with-rice-roasted-green-beans",
+  "kosher_category": "meat",
+  "primary_category": "chicken",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "meatballs"
+  ],
+  "components_from_title": [
+    "Teriyaki Chicken Meatballs",
+    "Rice",
+    "Roasted Green Beans"
+  ],
+  "summary": "Kosher meat dinner: Teriyaki Chicken Meatballs with Rice & Roasted Green Beans.",
+  "possible_related_or_duplicate_of": [
+    37
+  ]
+}

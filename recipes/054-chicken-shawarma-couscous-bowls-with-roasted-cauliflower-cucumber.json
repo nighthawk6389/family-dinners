@@ -1,0 +1,20 @@
+{
+  "number": 54,
+  "title": "Chicken Shawarma Couscous Bowls with Roasted Cauliflower & Cucumber",
+  "slug": "054-chicken-shawarma-couscous-bowls-with-roasted-cauliflower-cucumber",
+  "kosher_category": "meat",
+  "primary_category": "chicken",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "bowl"
+  ],
+  "components_from_title": [
+    "Chicken Shawarma Couscous Bowls",
+    "Roasted Cauliflower",
+    "Cucumber"
+  ],
+  "summary": "Kosher meat dinner: Chicken Shawarma Couscous Bowls with Roasted Cauliflower & Cucumber.",
+  "possible_related_or_duplicate_of": [
+    6
+  ]
+}

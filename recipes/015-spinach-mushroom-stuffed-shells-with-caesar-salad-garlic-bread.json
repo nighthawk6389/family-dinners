@@ -1,0 +1,19 @@
+{
+  "number": 15,
+  "title": "Spinach & Mushroom Stuffed Shells with Caesar Salad & Garlic Bread",
+  "slug": "015-spinach-mushroom-stuffed-shells-with-caesar-salad-garlic-bread",
+  "kosher_category": "dairy",
+  "primary_category": "dairy_vegetarian",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "pasta_bake",
+    "stuffed"
+  ],
+  "components_from_title": [
+    "Spinach",
+    "Mushroom Stuffed Shells",
+    "Caesar Salad",
+    "Garlic Bread"
+  ],
+  "summary": "Kosher dairy dinner: Spinach & Mushroom Stuffed Shells with Caesar Salad & Garlic Bread."
+}

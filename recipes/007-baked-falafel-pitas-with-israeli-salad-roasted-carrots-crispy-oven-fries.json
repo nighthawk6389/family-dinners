@@ -1,0 +1,18 @@
+{
+  "number": 7,
+  "title": "Baked Falafel Pitas with Israeli Salad, Roasted Carrots & Crispy Oven Fries",
+  "slug": "007-baked-falafel-pitas-with-israeli-salad-roasted-carrots-crispy-oven-fries",
+  "kosher_category": "pareve",
+  "primary_category": "pareve_vegetarian",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "pita_sandwich"
+  ],
+  "components_from_title": [
+    "Baked Falafel Pitas",
+    "Israeli Salad",
+    "Roasted Carrots",
+    "Crispy Oven Fries"
+  ],
+  "summary": "Kosher pareve dinner: Baked Falafel Pitas with Israeli Salad, Roasted Carrots & Crispy Oven Fries."
+}

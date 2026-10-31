@@ -1,0 +1,18 @@
+{
+  "number": 51,
+  "title": "Sheet-Pan Za’atar Chicken with Crispy Potatoes, Zucchini & Lemon-Tahini",
+  "slug": "051-sheet-pan-zaatar-chicken-with-crispy-potatoes-zucchini-lemon-tahini",
+  "kosher_category": "meat",
+  "primary_category": "chicken",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "sheet_pan"
+  ],
+  "components_from_title": [
+    "Sheet-Pan Za’atar Chicken",
+    "Crispy Potatoes",
+    "Zucchini",
+    "Lemon-Tahini"
+  ],
+  "summary": "Kosher meat dinner: Sheet-Pan Za’atar Chicken with Crispy Potatoes, Zucchini & Lemon-Tahini."
+}

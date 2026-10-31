@@ -1,0 +1,17 @@
+{
+  "number": 21,
+  "title": "Mediterranean Baked Salmon Pitas with Roasted Za'atar Cauliflower & Lemon Herb Couscous",
+  "slug": "021-mediterranean-baked-salmon-pitas-with-roasted-zaatar-cauliflower-lemon-herb-couscous",
+  "kosher_category": "fish_pareve",
+  "primary_category": "fish",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "pita_sandwich"
+  ],
+  "components_from_title": [
+    "Mediterranean Baked Salmon Pitas",
+    "Roasted Za'atar Cauliflower",
+    "Lemon Herb Couscous"
+  ],
+  "summary": "Kosher fish/pareve dinner: Mediterranean Baked Salmon Pitas with Roasted Za'atar Cauliflower & Lemon Herb Couscous."
+}

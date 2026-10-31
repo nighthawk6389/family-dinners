@@ -1,0 +1,20 @@
+{
+  "number": 60,
+  "title": "One-Pot Lemon Chicken Orzo with Spinach & Peas",
+  "slug": "060-one-pot-lemon-chicken-orzo-with-spinach-peas",
+  "kosher_category": "meat",
+  "primary_category": "chicken",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "plated"
+  ],
+  "components_from_title": [
+    "One-Pot Lemon Chicken Orzo",
+    "Spinach",
+    "Peas"
+  ],
+  "summary": "Kosher meat dinner: One-Pot Lemon Chicken Orzo with Spinach & Peas.",
+  "possible_related_or_duplicate_of": [
+    33
+  ]
+}

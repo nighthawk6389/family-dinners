@@ -1,0 +1,17 @@
+{
+  "number": 13,
+  "title": "Turkey Meatballs in Tomato Basil Sauce with Whole Wheat Spaghetti & Roasted Zucchini",
+  "slug": "013-turkey-meatballs-in-tomato-basil-sauce-with-whole-wheat-spaghetti-roasted-zucchini",
+  "kosher_category": "meat",
+  "primary_category": "turkey",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "meatballs"
+  ],
+  "components_from_title": [
+    "Turkey Meatballs in Tomato Basil Sauce",
+    "Whole Wheat Spaghetti",
+    "Roasted Zucchini"
+  ],
+  "summary": "Kosher meat dinner: Turkey Meatballs in Tomato Basil Sauce with Whole Wheat Spaghetti & Roasted Zucchini."
+}

@@ -1,0 +1,17 @@
+{
+  "number": 66,
+  "title": "Crispy Fish Schnitzel, Israeli Salad & Oven Potato Wedges",
+  "slug": "066-crispy-fish-schnitzel-israeli-salad-oven-potato-wedges",
+  "kosher_category": "fish_pareve",
+  "primary_category": "fish",
+  "shabbat_friendly": false,
+  "meal_formats": [
+    "schnitzel"
+  ],
+  "components_from_title": [
+    "Crispy Fish Schnitzel",
+    "Israeli Salad",
+    "Oven Potato Wedges"
+  ],
+  "summary": "Kosher fish/pareve dinner: Crispy Fish Schnitzel, Israeli Salad & Oven Potato Wedges."
+}
