@@ -1,30 +1,24 @@
-# Family Dinners
+# The Family Table
 
-A versioned collection of **95 kosher family dinner ideas** for a future recipe website.
+A mobile-friendly kosher family cookbook powered by the master dinner history.
 
-## Files
+## Website
 
-- **[`data/dinners.json`](data/dinners.json)** — complete numbered catalog with preferences and category counts.
-- **[`recipes/`](recipes/)** — one JSON file per dinner, with the stable dinner number and URL-friendly slug in its filename.
-- **[`docs/RECIPE_SCHEMA.md`](docs/RECIPE_SCHEMA.md)** — field definitions and workflow.
+Planned URL: https://nighthawk6389.github.io/family-dinners/
 
-## Data completeness
+To activate the site, visit Settings -> Pages -> Build and deployment -> Source and choose GitHub Actions. Then visit Actions -> Publish Family Dinner Website -> Run workflow if it does not start automatically.
 
-**Dinners #1–81:** Mostly a title, summary, ingredients *inferred from the title only as named components*, category and tags. These are historical records; don't treat them as complete recipes.
+Private repository Pages publishing requires an eligible paid GitHub plan. GitHub Pages sites are generally publicly accessible even when the source repository is private. If this option is unavailable, either make the repository public (only if comfortable) or use an eligible plan.
 
-**Dinners #82–95:** Contain ingredient lists, cooking directions, time estimates, child-friendly adjustments and leftover notes.
+## Structure
 
-The catalog preserves prior exact and near-duplicate dinner suggestions, including their original numbers, for history fidelity. Some entries have `possible_related_or_duplicate_of`.
+- site/index.html, styles.css, app.js and favicon.svg: responsive static website.
+- data/dinners.json: master history, source of truth.
+- recipes/: one JSON file per numbered recipe.
+- .github/workflows/pages.yml: deployment of the site and the latest dinner JSON after commits to the main branch.
 
-## Daily update workflow
+Features: keyword search, kosher-category filters, Shabbat filter, saved favorites in the browser, printable instructions, shareable recipe detail links, and mobile layout.
 
-The ChatGPT daily dinner task is intended to:
-1. Read the live `data/dinners.json` from this repository before choosing a recipe.
-2. Choose a genuinely new dinner respecting kosher meat/dairy separation, meal rotation, and the full history.
-3. Assign the next consecutive `number`.
-4. Commit **both** `recipes/NNN-slug.json` and the appended record in `data/dinners.json`, refreshing summary counts.
-5. Read back both files to verify success. If the GitHub write cannot be completed, explicitly say the recipe has **not been saved**.
+Only the newer entries (#82–95) contain complete structured ingredients and instructions. The earlier records are displayed as historical dinner ideas, rather than invented recipe steps.
 
-Future recipes should include full ingredients, instructions, total/active minutes, kids' modifications and leftovers, with appropriate Shabbat notes on Fridays. No dinner suggestions on Saturdays.
-
-The repository is private; GitHub commit history tracks all changes.
+With Pages enabled, new GitHub commits to the dinner JSON will automatically trigger a deployment. The existing ChatGPT daily task is set up to update this repository.
